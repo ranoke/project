@@ -1,0 +1,1990 @@
+1714847953: mosquitto version 2.0.18 starting
+1714847953: Config loaded from /mosquitto/config/mosquitto.conf.
+1714847953: Opening ipv4 listen socket on port 1883.
+1714847953: Opening ipv6 listen socket on port 1883.
+1714847953: Opening ipv4 listen socket on port 9001.
+1714847953: Opening ipv6 listen socket on port 9001.
+1714847953: mosquitto version 2.0.18 running
+1714847970: mosquitto version 2.0.18 terminating
+1714847970: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714847970: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714847970: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714847970: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714847974: mosquitto version 2.0.18 starting
+1714847974: Config loaded from /mosquitto/config/mosquitto.conf.
+1714847974: Opening ipv4 listen socket on port 1883.
+1714847974: Opening ipv6 listen socket on port 1883.
+1714847974: Opening ipv4 listen socket on port 9001.
+1714847974: Opening ipv6 listen socket on port 9001.
+1714847974: mosquitto version 2.0.18 running
+1714847974: New connection from 172.20.0.4:39785 on port 1883.
+1714847974: New client connected from 172.20.0.4:39785 as python-mqtt-server (p2, c1, k60).
+1714848884: mosquitto version 2.0.18 starting
+1714848884: Config loaded from /mosquitto/config/mosquitto.conf.
+1714848884: Opening ipv4 listen socket on port 1883.
+1714848884: Opening ipv6 listen socket on port 1883.
+1714848884: Opening ipv4 listen socket on port 9001.
+1714848884: Opening ipv6 listen socket on port 9001.
+1714848884: mosquitto version 2.0.18 running
+1714848884: New connection from 172.20.0.4:51749 on port 1883.
+1714848884: New client connected from 172.20.0.4:51749 as python-mqtt-server (p2, c1, k60).
+1714848921: Client python-mqtt-server closed its connection.
+1714848922: mosquitto version 2.0.18 terminating
+1714848922: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714848922: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714848922: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714848922: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714848925: mosquitto version 2.0.18 starting
+1714848925: Config loaded from /mosquitto/config/mosquitto.conf.
+1714848925: Opening ipv4 listen socket on port 1883.
+1714848925: Opening ipv6 listen socket on port 1883.
+1714848925: Opening ipv4 listen socket on port 9001.
+1714848925: Opening ipv6 listen socket on port 9001.
+1714848925: mosquitto version 2.0.18 running
+1714848926: New connection from 172.20.0.4:38721 on port 1883.
+1714848926: New client connected from 172.20.0.4:38721 as python-mqtt-server (p2, c1, k60).
+1714848958: Client python-mqtt-server closed its connection.
+1714848958: mosquitto version 2.0.18 terminating
+1714848958: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714848958: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714848958: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714848958: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714848962: mosquitto version 2.0.18 starting
+1714848962: Config loaded from /mosquitto/config/mosquitto.conf.
+1714848962: Opening ipv4 listen socket on port 1883.
+1714848962: Opening ipv6 listen socket on port 1883.
+1714848962: Opening ipv4 listen socket on port 9001.
+1714848962: Opening ipv6 listen socket on port 9001.
+1714848962: mosquitto version 2.0.18 running
+1714848962: New connection from 172.20.0.5:36217 on port 1883.
+1714848962: New client connected from 172.20.0.5:36217 as python-mqtt-server (p2, c1, k60).
+1714850762: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714850762: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714850762: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714850762: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714852047: Client python-mqtt-server closed its connection.
+1714852048: mosquitto version 2.0.18 terminating
+1714852048: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714852048: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714852048: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714852048: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714852185: mosquitto version 2.0.18 starting
+1714852185: Config loaded from /mosquitto/config/mosquitto.conf.
+1714852185: Opening ipv4 listen socket on port 1883.
+1714852185: Opening ipv6 listen socket on port 1883.
+1714852185: Opening ipv4 listen socket on port 9001.
+1714852185: Opening ipv6 listen socket on port 9001.
+1714852185: mosquitto version 2.0.18 running
+1714852186: New connection from 172.20.0.6:57087 on port 1883.
+1714852186: New client connected from 172.20.0.6:57087 as python-mqtt-server (p2, c1, k60).
+1714852470: mosquitto version 2.0.18 terminating
+1714852470: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714852470: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714852470: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714852470: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714895114: mosquitto version 2.0.18 starting
+1714895114: Config loaded from /mosquitto/config/mosquitto.conf.
+1714895114: Opening ipv4 listen socket on port 1883.
+1714895114: Opening ipv6 listen socket on port 1883.
+1714895114: Opening ipv4 listen socket on port 9001.
+1714895114: Opening ipv6 listen socket on port 9001.
+1714895114: mosquitto version 2.0.18 running
+1714895122: New connection from 172.20.0.6:37869 on port 1883.
+1714895122: New client connected from 172.20.0.6:37869 as python-mqtt-server (p2, c1, k60).
+1714895195: Client python-mqtt-server closed its connection.
+1714895195: mosquitto version 2.0.18 terminating
+1714895195: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714895195: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714895195: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714895195: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714895199: mosquitto version 2.0.18 starting
+1714895199: Config loaded from /mosquitto/config/mosquitto.conf.
+1714895199: Opening ipv4 listen socket on port 1883.
+1714895199: Opening ipv6 listen socket on port 1883.
+1714895199: Opening ipv4 listen socket on port 9001.
+1714895199: Opening ipv6 listen socket on port 9001.
+1714895199: mosquitto version 2.0.18 running
+1714895199: New connection from 172.20.0.6:53033 on port 1883.
+1714895199: New client connected from 172.20.0.6:53033 as python-mqtt-server (p2, c1, k60).
+1714895247: Client python-mqtt-server closed its connection.
+1714895288: mosquitto version 2.0.18 starting
+1714895288: Config loaded from /mosquitto/config/mosquitto.conf.
+1714895288: Opening ipv4 listen socket on port 1883.
+1714895288: Opening ipv6 listen socket on port 1883.
+1714895288: Opening ipv4 listen socket on port 9001.
+1714895288: Opening ipv6 listen socket on port 9001.
+1714895288: mosquitto version 2.0.18 running
+1714895288: New connection from 172.20.0.5:54671 on port 1883.
+1714895288: New client connected from 172.20.0.5:54671 as python-mqtt-server (p2, c1, k60).
+1714895328: Client python-mqtt-server closed its connection.
+1714895331: mosquitto version 2.0.18 terminating
+1714895331: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714895331: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714895331: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714895331: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714895383: mosquitto version 2.0.18 starting
+1714895383: Config loaded from /mosquitto/config/mosquitto.conf.
+1714895383: Opening ipv4 listen socket on port 1883.
+1714895383: Opening ipv6 listen socket on port 1883.
+1714895383: Opening ipv4 listen socket on port 9001.
+1714895383: Opening ipv6 listen socket on port 9001.
+1714895383: mosquitto version 2.0.18 running
+1714895384: New connection from 172.20.0.6:40987 on port 1883.
+1714895384: New client connected from 172.20.0.6:40987 as python-mqtt-server (p2, c1, k60).
+1714895407: Client python-mqtt-server closed its connection.
+1714895408: mosquitto version 2.0.18 terminating
+1714895408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714895408: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714895408: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714895408: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714895450: mosquitto version 2.0.18 starting
+1714895450: Config loaded from /mosquitto/config/mosquitto.conf.
+1714895450: Opening ipv4 listen socket on port 1883.
+1714895450: Opening ipv6 listen socket on port 1883.
+1714895450: Opening ipv4 listen socket on port 9001.
+1714895450: Opening ipv6 listen socket on port 9001.
+1714895450: mosquitto version 2.0.18 running
+1714895450: New connection from 172.20.0.6:38095 on port 1883.
+1714895450: New connection from 172.20.0.5:47785 on port 1883.
+1714895450: New client connected from 172.20.0.6:38095 as python-mqtt-server (p2, c1, k60).
+1714895450: Client python-mqtt-server already connected, closing old connection.
+1714895450: New client connected from 172.20.0.5:47785 as python-mqtt-server (p2, c1, k60).
+1714895451: New connection from 172.20.0.6:42065 on port 1883.
+1714895451: Client python-mqtt-server already connected, closing old connection.
+1714895451: New client connected from 172.20.0.6:42065 as python-mqtt-server (p2, c1, k60).
+1714895452: New connection from 172.20.0.5:44005 on port 1883.
+1714895452: Client python-mqtt-server already connected, closing old connection.
+1714895452: New client connected from 172.20.0.5:44005 as python-mqtt-server (p2, c1, k60).
+1714895453: New connection from 172.20.0.6:43513 on port 1883.
+1714895453: Client python-mqtt-server already connected, closing old connection.
+1714895453: New client connected from 172.20.0.6:43513 as python-mqtt-server (p2, c1, k60).
+1714895454: New connection from 172.20.0.5:39967 on port 1883.
+1714895454: Client python-mqtt-server already connected, closing old connection.
+1714895454: New client connected from 172.20.0.5:39967 as python-mqtt-server (p2, c1, k60).
+1714895455: New connection from 172.20.0.6:41819 on port 1883.
+1714895455: Client python-mqtt-server already connected, closing old connection.
+1714895455: New client connected from 172.20.0.6:41819 as python-mqtt-server (p2, c1, k60).
+1714895456: New connection from 172.20.0.5:52153 on port 1883.
+1714895456: Client python-mqtt-server already connected, closing old connection.
+1714895456: New client connected from 172.20.0.5:52153 as python-mqtt-server (p2, c1, k60).
+1714895457: New connection from 172.20.0.6:40389 on port 1883.
+1714895457: Client python-mqtt-server already connected, closing old connection.
+1714895457: New client connected from 172.20.0.6:40389 as python-mqtt-server (p2, c1, k60).
+1714895458: New connection from 172.20.0.5:36853 on port 1883.
+1714895458: Client python-mqtt-server already connected, closing old connection.
+1714895458: New client connected from 172.20.0.5:36853 as python-mqtt-server (p2, c1, k60).
+1714895459: New connection from 172.20.0.6:55205 on port 1883.
+1714895459: Client python-mqtt-server already connected, closing old connection.
+1714895459: New client connected from 172.20.0.6:55205 as python-mqtt-server (p2, c1, k60).
+1714895460: New connection from 172.20.0.5:46893 on port 1883.
+1714895460: Client python-mqtt-server already connected, closing old connection.
+1714895460: New client connected from 172.20.0.5:46893 as python-mqtt-server (p2, c1, k60).
+1714895461: New connection from 172.20.0.6:42891 on port 1883.
+1714895461: Client python-mqtt-server already connected, closing old connection.
+1714895461: New client connected from 172.20.0.6:42891 as python-mqtt-server (p2, c1, k60).
+1714895462: New connection from 172.20.0.5:43499 on port 1883.
+1714895462: Client python-mqtt-server already connected, closing old connection.
+1714895462: New client connected from 172.20.0.5:43499 as python-mqtt-server (p2, c1, k60).
+1714895463: New connection from 172.20.0.6:42009 on port 1883.
+1714895463: Client python-mqtt-server already connected, closing old connection.
+1714895463: New client connected from 172.20.0.6:42009 as python-mqtt-server (p2, c1, k60).
+1714895464: New connection from 172.20.0.5:43409 on port 1883.
+1714895464: Client python-mqtt-server already connected, closing old connection.
+1714895464: New client connected from 172.20.0.5:43409 as python-mqtt-server (p2, c1, k60).
+1714895465: New connection from 172.20.0.6:38771 on port 1883.
+1714895465: Client python-mqtt-server already connected, closing old connection.
+1714895465: New client connected from 172.20.0.6:38771 as python-mqtt-server (p2, c1, k60).
+1714895466: New connection from 172.20.0.5:49081 on port 1883.
+1714895466: Client python-mqtt-server already connected, closing old connection.
+1714895466: New client connected from 172.20.0.5:49081 as python-mqtt-server (p2, c1, k60).
+1714895467: New connection from 172.20.0.6:33309 on port 1883.
+1714895467: Client python-mqtt-server already connected, closing old connection.
+1714895467: New client connected from 172.20.0.6:33309 as python-mqtt-server (p2, c1, k60).
+1714895468: New connection from 172.20.0.5:47083 on port 1883.
+1714895468: Client python-mqtt-server already connected, closing old connection.
+1714895468: New client connected from 172.20.0.5:47083 as python-mqtt-server (p2, c1, k60).
+1714895469: New connection from 172.20.0.6:57601 on port 1883.
+1714895469: Client python-mqtt-server already connected, closing old connection.
+1714895469: New client connected from 172.20.0.6:57601 as python-mqtt-server (p2, c1, k60).
+1714895470: New connection from 172.20.0.5:44333 on port 1883.
+1714895470: Client python-mqtt-server already connected, closing old connection.
+1714895470: New client connected from 172.20.0.5:44333 as python-mqtt-server (p2, c1, k60).
+1714895471: New connection from 172.20.0.6:52487 on port 1883.
+1714895471: Client python-mqtt-server already connected, closing old connection.
+1714895471: New client connected from 172.20.0.6:52487 as python-mqtt-server (p2, c1, k60).
+1714895472: New connection from 172.20.0.5:46235 on port 1883.
+1714895472: Client python-mqtt-server already connected, closing old connection.
+1714895472: New client connected from 172.20.0.5:46235 as python-mqtt-server (p2, c1, k60).
+1714895473: New connection from 172.20.0.6:49031 on port 1883.
+1714895473: Client python-mqtt-server already connected, closing old connection.
+1714895473: New client connected from 172.20.0.6:49031 as python-mqtt-server (p2, c1, k60).
+1714895474: New connection from 172.20.0.5:58467 on port 1883.
+1714895474: Client python-mqtt-server already connected, closing old connection.
+1714895474: New client connected from 172.20.0.5:58467 as python-mqtt-server (p2, c1, k60).
+1714895475: New connection from 172.20.0.6:60079 on port 1883.
+1714895475: Client python-mqtt-server already connected, closing old connection.
+1714895475: New client connected from 172.20.0.6:60079 as python-mqtt-server (p2, c1, k60).
+1714895476: New connection from 172.20.0.5:42123 on port 1883.
+1714895476: Client python-mqtt-server already connected, closing old connection.
+1714895476: New client connected from 172.20.0.5:42123 as python-mqtt-server (p2, c1, k60).
+1714895477: New connection from 172.20.0.6:52343 on port 1883.
+1714895477: Client python-mqtt-server already connected, closing old connection.
+1714895477: New client connected from 172.20.0.6:52343 as python-mqtt-server (p2, c1, k60).
+1714895478: New connection from 172.20.0.5:50545 on port 1883.
+1714895478: Client python-mqtt-server already connected, closing old connection.
+1714895478: New client connected from 172.20.0.5:50545 as python-mqtt-server (p2, c1, k60).
+1714895479: New connection from 172.20.0.6:40689 on port 1883.
+1714895479: Client python-mqtt-server already connected, closing old connection.
+1714895479: New client connected from 172.20.0.6:40689 as python-mqtt-server (p2, c1, k60).
+1714895480: New connection from 172.20.0.5:43203 on port 1883.
+1714895480: Client python-mqtt-server already connected, closing old connection.
+1714895480: New client connected from 172.20.0.5:43203 as python-mqtt-server (p2, c1, k60).
+1714895481: New connection from 172.20.0.6:35147 on port 1883.
+1714895481: Client python-mqtt-server already connected, closing old connection.
+1714895481: New client connected from 172.20.0.6:35147 as python-mqtt-server (p2, c1, k60).
+1714895482: New connection from 172.20.0.5:38181 on port 1883.
+1714895482: Client python-mqtt-server already connected, closing old connection.
+1714895482: New client connected from 172.20.0.5:38181 as python-mqtt-server (p2, c1, k60).
+1714895483: New connection from 172.20.0.6:49143 on port 1883.
+1714895483: Client python-mqtt-server already connected, closing old connection.
+1714895483: New client connected from 172.20.0.6:49143 as python-mqtt-server (p2, c1, k60).
+1714895484: New connection from 172.20.0.5:48489 on port 1883.
+1714895484: Client python-mqtt-server already connected, closing old connection.
+1714895484: New client connected from 172.20.0.5:48489 as python-mqtt-server (p2, c1, k60).
+1714895485: New connection from 172.20.0.6:56243 on port 1883.
+1714895485: Client python-mqtt-server already connected, closing old connection.
+1714895485: New client connected from 172.20.0.6:56243 as python-mqtt-server (p2, c1, k60).
+1714895486: New connection from 172.20.0.5:58387 on port 1883.
+1714895486: Client python-mqtt-server already connected, closing old connection.
+1714895486: New client connected from 172.20.0.5:58387 as python-mqtt-server (p2, c1, k60).
+1714895487: New connection from 172.20.0.6:59313 on port 1883.
+1714895487: Client python-mqtt-server already connected, closing old connection.
+1714895487: New client connected from 172.20.0.6:59313 as python-mqtt-server (p2, c1, k60).
+1714895488: New connection from 172.20.0.5:52539 on port 1883.
+1714895488: Client python-mqtt-server already connected, closing old connection.
+1714895488: New client connected from 172.20.0.5:52539 as python-mqtt-server (p2, c1, k60).
+1714895489: New connection from 172.20.0.6:35669 on port 1883.
+1714895489: Client python-mqtt-server already connected, closing old connection.
+1714895489: New client connected from 172.20.0.6:35669 as python-mqtt-server (p2, c1, k60).
+1714895490: New connection from 172.20.0.5:41805 on port 1883.
+1714895490: Client python-mqtt-server already connected, closing old connection.
+1714895490: New client connected from 172.20.0.5:41805 as python-mqtt-server (p2, c1, k60).
+1714895491: New connection from 172.20.0.6:52005 on port 1883.
+1714895491: Client python-mqtt-server already connected, closing old connection.
+1714895491: New client connected from 172.20.0.6:52005 as python-mqtt-server (p2, c1, k60).
+1714895492: New connection from 172.20.0.5:36135 on port 1883.
+1714895492: Client python-mqtt-server already connected, closing old connection.
+1714895492: New client connected from 172.20.0.5:36135 as python-mqtt-server (p2, c1, k60).
+1714895493: New connection from 172.20.0.6:48053 on port 1883.
+1714895493: Client python-mqtt-server already connected, closing old connection.
+1714895493: New client connected from 172.20.0.6:48053 as python-mqtt-server (p2, c1, k60).
+1714895494: New connection from 172.20.0.5:41859 on port 1883.
+1714895494: Client python-mqtt-server already connected, closing old connection.
+1714895494: New client connected from 172.20.0.5:41859 as python-mqtt-server (p2, c1, k60).
+1714895495: New connection from 172.20.0.6:45299 on port 1883.
+1714895495: Client python-mqtt-server already connected, closing old connection.
+1714895495: New client connected from 172.20.0.6:45299 as python-mqtt-server (p2, c1, k60).
+1714895496: New connection from 172.20.0.5:45591 on port 1883.
+1714895496: Client python-mqtt-server already connected, closing old connection.
+1714895496: New client connected from 172.20.0.5:45591 as python-mqtt-server (p2, c1, k60).
+1714895497: New connection from 172.20.0.6:42247 on port 1883.
+1714895497: Client python-mqtt-server already connected, closing old connection.
+1714895497: New client connected from 172.20.0.6:42247 as python-mqtt-server (p2, c1, k60).
+1714895498: New connection from 172.20.0.5:38881 on port 1883.
+1714895498: Client python-mqtt-server already connected, closing old connection.
+1714895498: New client connected from 172.20.0.5:38881 as python-mqtt-server (p2, c1, k60).
+1714895499: New connection from 172.20.0.6:45371 on port 1883.
+1714895499: Client python-mqtt-server already connected, closing old connection.
+1714895499: New client connected from 172.20.0.6:45371 as python-mqtt-server (p2, c1, k60).
+1714895500: New connection from 172.20.0.5:47043 on port 1883.
+1714895500: Client python-mqtt-server already connected, closing old connection.
+1714895500: New client connected from 172.20.0.5:47043 as python-mqtt-server (p2, c1, k60).
+1714895501: New connection from 172.20.0.6:34687 on port 1883.
+1714895501: Client python-mqtt-server already connected, closing old connection.
+1714895501: New client connected from 172.20.0.6:34687 as python-mqtt-server (p2, c1, k60).
+1714895502: New connection from 172.20.0.5:45223 on port 1883.
+1714895502: Client python-mqtt-server already connected, closing old connection.
+1714895502: New client connected from 172.20.0.5:45223 as python-mqtt-server (p2, c1, k60).
+1714895503: New connection from 172.20.0.6:56401 on port 1883.
+1714895503: Client python-mqtt-server already connected, closing old connection.
+1714895503: New client connected from 172.20.0.6:56401 as python-mqtt-server (p2, c1, k60).
+1714895504: New connection from 172.20.0.5:51311 on port 1883.
+1714895504: Client python-mqtt-server already connected, closing old connection.
+1714895504: New client connected from 172.20.0.5:51311 as python-mqtt-server (p2, c1, k60).
+1714895505: New connection from 172.20.0.6:47447 on port 1883.
+1714895505: Client python-mqtt-server already connected, closing old connection.
+1714895505: New client connected from 172.20.0.6:47447 as python-mqtt-server (p2, c1, k60).
+1714895506: New connection from 172.20.0.5:43993 on port 1883.
+1714895507: Client python-mqtt-server already connected, closing old connection.
+1714895507: New client connected from 172.20.0.5:43993 as python-mqtt-server (p2, c1, k60).
+1714895508: New connection from 172.20.0.6:38105 on port 1883.
+1714895508: Client python-mqtt-server already connected, closing old connection.
+1714895508: New client connected from 172.20.0.6:38105 as python-mqtt-server (p2, c1, k60).
+1714895509: New connection from 172.20.0.5:51399 on port 1883.
+1714895509: Client python-mqtt-server already connected, closing old connection.
+1714895509: New client connected from 172.20.0.5:51399 as python-mqtt-server (p2, c1, k60).
+1714895510: New connection from 172.20.0.6:32877 on port 1883.
+1714895510: Client python-mqtt-server already connected, closing old connection.
+1714895510: New client connected from 172.20.0.6:32877 as python-mqtt-server (p2, c1, k60).
+1714895511: New connection from 172.20.0.5:56289 on port 1883.
+1714895511: Client python-mqtt-server already connected, closing old connection.
+1714895511: New client connected from 172.20.0.5:56289 as python-mqtt-server (p2, c1, k60).
+1714895512: New connection from 172.20.0.6:49455 on port 1883.
+1714895512: Client python-mqtt-server already connected, closing old connection.
+1714895512: New client connected from 172.20.0.6:49455 as python-mqtt-server (p2, c1, k60).
+1714895513: New connection from 172.20.0.5:58377 on port 1883.
+1714895513: Client python-mqtt-server already connected, closing old connection.
+1714895513: New client connected from 172.20.0.5:58377 as python-mqtt-server (p2, c1, k60).
+1714895514: New connection from 172.20.0.6:33013 on port 1883.
+1714895514: Client python-mqtt-server already connected, closing old connection.
+1714895514: New client connected from 172.20.0.6:33013 as python-mqtt-server (p2, c1, k60).
+1714895515: New connection from 172.20.0.5:49843 on port 1883.
+1714895515: Client python-mqtt-server already connected, closing old connection.
+1714895515: New client connected from 172.20.0.5:49843 as python-mqtt-server (p2, c1, k60).
+1714895516: New connection from 172.20.0.6:45213 on port 1883.
+1714895516: Client python-mqtt-server already connected, closing old connection.
+1714895516: New client connected from 172.20.0.6:45213 as python-mqtt-server (p2, c1, k60).
+1714895517: New connection from 172.20.0.5:49443 on port 1883.
+1714895517: Client python-mqtt-server already connected, closing old connection.
+1714895517: New client connected from 172.20.0.5:49443 as python-mqtt-server (p2, c1, k60).
+1714895518: New connection from 172.20.0.6:39433 on port 1883.
+1714895518: Client python-mqtt-server already connected, closing old connection.
+1714895518: New client connected from 172.20.0.6:39433 as python-mqtt-server (p2, c1, k60).
+1714895519: New connection from 172.20.0.5:41989 on port 1883.
+1714895519: Client python-mqtt-server already connected, closing old connection.
+1714895519: New client connected from 172.20.0.5:41989 as python-mqtt-server (p2, c1, k60).
+1714895520: New connection from 172.20.0.6:52139 on port 1883.
+1714895520: Client python-mqtt-server already connected, closing old connection.
+1714895520: New client connected from 172.20.0.6:52139 as python-mqtt-server (p2, c1, k60).
+1714895521: New connection from 172.20.0.5:39147 on port 1883.
+1714895521: Client python-mqtt-server already connected, closing old connection.
+1714895521: New client connected from 172.20.0.5:39147 as python-mqtt-server (p2, c1, k60).
+1714895522: New connection from 172.20.0.6:43247 on port 1883.
+1714895522: Client python-mqtt-server already connected, closing old connection.
+1714895522: New client connected from 172.20.0.6:43247 as python-mqtt-server (p2, c1, k60).
+1714895523: New connection from 172.20.0.5:58291 on port 1883.
+1714895523: Client python-mqtt-server already connected, closing old connection.
+1714895523: New client connected from 172.20.0.5:58291 as python-mqtt-server (p2, c1, k60).
+1714895524: New connection from 172.20.0.6:55529 on port 1883.
+1714895524: Client python-mqtt-server already connected, closing old connection.
+1714895524: New client connected from 172.20.0.6:55529 as python-mqtt-server (p2, c1, k60).
+1714895525: New connection from 172.20.0.5:58505 on port 1883.
+1714895525: Client python-mqtt-server already connected, closing old connection.
+1714895525: New client connected from 172.20.0.5:58505 as python-mqtt-server (p2, c1, k60).
+1714895526: New connection from 172.20.0.6:36553 on port 1883.
+1714895526: Client python-mqtt-server already connected, closing old connection.
+1714895526: New client connected from 172.20.0.6:36553 as python-mqtt-server (p2, c1, k60).
+1714895527: New connection from 172.20.0.5:53713 on port 1883.
+1714895527: Client python-mqtt-server already connected, closing old connection.
+1714895527: New client connected from 172.20.0.5:53713 as python-mqtt-server (p2, c1, k60).
+1714895528: New connection from 172.20.0.6:44209 on port 1883.
+1714895528: Client python-mqtt-server already connected, closing old connection.
+1714895528: New client connected from 172.20.0.6:44209 as python-mqtt-server (p2, c1, k60).
+1714895529: New connection from 172.20.0.5:52065 on port 1883.
+1714895529: Client python-mqtt-server already connected, closing old connection.
+1714895529: New client connected from 172.20.0.5:52065 as python-mqtt-server (p2, c1, k60).
+1714895530: New connection from 172.20.0.6:51643 on port 1883.
+1714895530: Client python-mqtt-server already connected, closing old connection.
+1714895530: New client connected from 172.20.0.6:51643 as python-mqtt-server (p2, c1, k60).
+1714895531: New connection from 172.20.0.5:44453 on port 1883.
+1714895531: Client python-mqtt-server already connected, closing old connection.
+1714895531: New client connected from 172.20.0.5:44453 as python-mqtt-server (p2, c1, k60).
+1714895532: New connection from 172.20.0.6:37387 on port 1883.
+1714895532: Client python-mqtt-server already connected, closing old connection.
+1714895532: New client connected from 172.20.0.6:37387 as python-mqtt-server (p2, c1, k60).
+1714895533: New connection from 172.20.0.5:57057 on port 1883.
+1714895533: Client python-mqtt-server already connected, closing old connection.
+1714895533: New client connected from 172.20.0.5:57057 as python-mqtt-server (p2, c1, k60).
+1714895534: New connection from 172.20.0.6:49543 on port 1883.
+1714895534: Client python-mqtt-server already connected, closing old connection.
+1714895534: New client connected from 172.20.0.6:49543 as python-mqtt-server (p2, c1, k60).
+1714895536: New connection from 172.20.0.5:33579 on port 1883.
+1714895536: Client python-mqtt-server already connected, closing old connection.
+1714895536: New client connected from 172.20.0.5:33579 as python-mqtt-server (p2, c1, k60).
+1714895537: New connection from 172.20.0.6:43007 on port 1883.
+1714895537: Client python-mqtt-server already connected, closing old connection.
+1714895537: New client connected from 172.20.0.6:43007 as python-mqtt-server (p2, c1, k60).
+1714895538: New connection from 172.20.0.5:37551 on port 1883.
+1714895538: Client python-mqtt-server already connected, closing old connection.
+1714895538: New client connected from 172.20.0.5:37551 as python-mqtt-server (p2, c1, k60).
+1714895539: New connection from 172.20.0.6:53479 on port 1883.
+1714895539: Client python-mqtt-server already connected, closing old connection.
+1714895539: New client connected from 172.20.0.6:53479 as python-mqtt-server (p2, c1, k60).
+1714895540: New connection from 172.20.0.5:41007 on port 1883.
+1714895540: Client python-mqtt-server already connected, closing old connection.
+1714895540: New client connected from 172.20.0.5:41007 as python-mqtt-server (p2, c1, k60).
+1714895541: New connection from 172.20.0.6:51673 on port 1883.
+1714895541: Client python-mqtt-server already connected, closing old connection.
+1714895541: New client connected from 172.20.0.6:51673 as python-mqtt-server (p2, c1, k60).
+1714895542: New connection from 172.20.0.5:55681 on port 1883.
+1714895542: Client python-mqtt-server already connected, closing old connection.
+1714895542: New client connected from 172.20.0.5:55681 as python-mqtt-server (p2, c1, k60).
+1714895543: New connection from 172.20.0.6:34535 on port 1883.
+1714895543: Client python-mqtt-server already connected, closing old connection.
+1714895543: New client connected from 172.20.0.6:34535 as python-mqtt-server (p2, c1, k60).
+1714895544: New connection from 172.20.0.5:53117 on port 1883.
+1714895544: Client python-mqtt-server already connected, closing old connection.
+1714895544: New client connected from 172.20.0.5:53117 as python-mqtt-server (p2, c1, k60).
+1714895545: New connection from 172.20.0.6:52817 on port 1883.
+1714895545: Client python-mqtt-server already connected, closing old connection.
+1714895545: New client connected from 172.20.0.6:52817 as python-mqtt-server (p2, c1, k60).
+1714895546: New connection from 172.20.0.5:52981 on port 1883.
+1714895546: Client python-mqtt-server already connected, closing old connection.
+1714895546: New client connected from 172.20.0.5:52981 as python-mqtt-server (p2, c1, k60).
+1714895547: New connection from 172.20.0.6:47915 on port 1883.
+1714895547: Client python-mqtt-server already connected, closing old connection.
+1714895547: New client connected from 172.20.0.6:47915 as python-mqtt-server (p2, c1, k60).
+1714895548: New connection from 172.20.0.5:52983 on port 1883.
+1714895548: Client python-mqtt-server already connected, closing old connection.
+1714895548: New client connected from 172.20.0.5:52983 as python-mqtt-server (p2, c1, k60).
+1714895549: New connection from 172.20.0.6:51519 on port 1883.
+1714895549: Client python-mqtt-server already connected, closing old connection.
+1714895549: New client connected from 172.20.0.6:51519 as python-mqtt-server (p2, c1, k60).
+1714895550: New connection from 172.20.0.5:48883 on port 1883.
+1714895550: Client python-mqtt-server already connected, closing old connection.
+1714895550: New client connected from 172.20.0.5:48883 as python-mqtt-server (p2, c1, k60).
+1714895551: New connection from 172.20.0.6:57201 on port 1883.
+1714895551: Client python-mqtt-server already connected, closing old connection.
+1714895551: New client connected from 172.20.0.6:57201 as python-mqtt-server (p2, c1, k60).
+1714895552: New connection from 172.20.0.5:52587 on port 1883.
+1714895552: Client python-mqtt-server already connected, closing old connection.
+1714895552: New client connected from 172.20.0.5:52587 as python-mqtt-server (p2, c1, k60).
+1714895553: New connection from 172.20.0.6:35857 on port 1883.
+1714895553: Client python-mqtt-server already connected, closing old connection.
+1714895553: New client connected from 172.20.0.6:35857 as python-mqtt-server (p2, c1, k60).
+1714895554: New connection from 172.20.0.5:33381 on port 1883.
+1714895554: Client python-mqtt-server already connected, closing old connection.
+1714895554: New client connected from 172.20.0.5:33381 as python-mqtt-server (p2, c1, k60).
+1714895555: New connection from 172.20.0.6:48299 on port 1883.
+1714895555: Client python-mqtt-server already connected, closing old connection.
+1714895555: New client connected from 172.20.0.6:48299 as python-mqtt-server (p2, c1, k60).
+1714895556: New connection from 172.20.0.5:47831 on port 1883.
+1714895556: Client python-mqtt-server already connected, closing old connection.
+1714895556: New client connected from 172.20.0.5:47831 as python-mqtt-server (p2, c1, k60).
+1714895557: New connection from 172.20.0.6:60601 on port 1883.
+1714895557: Client python-mqtt-server already connected, closing old connection.
+1714895557: New client connected from 172.20.0.6:60601 as python-mqtt-server (p2, c1, k60).
+1714895558: New connection from 172.20.0.5:58105 on port 1883.
+1714895558: Client python-mqtt-server already connected, closing old connection.
+1714895558: New client connected from 172.20.0.5:58105 as python-mqtt-server (p2, c1, k60).
+1714895559: New connection from 172.20.0.6:34391 on port 1883.
+1714895559: Client python-mqtt-server already connected, closing old connection.
+1714895559: New client connected from 172.20.0.6:34391 as python-mqtt-server (p2, c1, k60).
+1714895560: New connection from 172.20.0.5:48051 on port 1883.
+1714895560: Client python-mqtt-server already connected, closing old connection.
+1714895560: New client connected from 172.20.0.5:48051 as python-mqtt-server (p2, c1, k60).
+1714895561: New connection from 172.20.0.6:50705 on port 1883.
+1714895561: Client python-mqtt-server already connected, closing old connection.
+1714895561: New client connected from 172.20.0.6:50705 as python-mqtt-server (p2, c1, k60).
+1714895562: New connection from 172.20.0.5:55383 on port 1883.
+1714895562: Client python-mqtt-server already connected, closing old connection.
+1714895562: New client connected from 172.20.0.5:55383 as python-mqtt-server (p2, c1, k60).
+1714895563: New connection from 172.20.0.6:36565 on port 1883.
+1714895563: Client python-mqtt-server already connected, closing old connection.
+1714895563: New client connected from 172.20.0.6:36565 as python-mqtt-server (p2, c1, k60).
+1714895564: New connection from 172.20.0.5:57923 on port 1883.
+1714895564: Client python-mqtt-server already connected, closing old connection.
+1714895564: New client connected from 172.20.0.5:57923 as python-mqtt-server (p2, c1, k60).
+1714895565: New connection from 172.20.0.6:39173 on port 1883.
+1714895565: Client python-mqtt-server already connected, closing old connection.
+1714895565: New client connected from 172.20.0.6:39173 as python-mqtt-server (p2, c1, k60).
+1714895566: New connection from 172.20.0.5:57469 on port 1883.
+1714895566: Client python-mqtt-server already connected, closing old connection.
+1714895566: New client connected from 172.20.0.5:57469 as python-mqtt-server (p2, c1, k60).
+1714895567: New connection from 172.20.0.6:41227 on port 1883.
+1714895567: Client python-mqtt-server already connected, closing old connection.
+1714895567: New client connected from 172.20.0.6:41227 as python-mqtt-server (p2, c1, k60).
+1714895568: New connection from 172.20.0.5:38459 on port 1883.
+1714895568: Client python-mqtt-server already connected, closing old connection.
+1714895568: New client connected from 172.20.0.5:38459 as python-mqtt-server (p2, c1, k60).
+1714895569: New connection from 172.20.0.6:59677 on port 1883.
+1714895569: Client python-mqtt-server already connected, closing old connection.
+1714895569: New client connected from 172.20.0.6:59677 as python-mqtt-server (p2, c1, k60).
+1714895570: New connection from 172.20.0.5:46509 on port 1883.
+1714895570: Client python-mqtt-server already connected, closing old connection.
+1714895570: New client connected from 172.20.0.5:46509 as python-mqtt-server (p2, c1, k60).
+1714895571: New connection from 172.20.0.6:60229 on port 1883.
+1714895571: Client python-mqtt-server already connected, closing old connection.
+1714895571: New client connected from 172.20.0.6:60229 as python-mqtt-server (p2, c1, k60).
+1714895572: New connection from 172.20.0.5:50999 on port 1883.
+1714895572: Client python-mqtt-server already connected, closing old connection.
+1714895572: New client connected from 172.20.0.5:50999 as python-mqtt-server (p2, c1, k60).
+1714895573: New connection from 172.20.0.6:38413 on port 1883.
+1714895573: Client python-mqtt-server already connected, closing old connection.
+1714895573: New client connected from 172.20.0.6:38413 as python-mqtt-server (p2, c1, k60).
+1714895574: New connection from 172.20.0.5:45481 on port 1883.
+1714895574: Client python-mqtt-server already connected, closing old connection.
+1714895574: New client connected from 172.20.0.5:45481 as python-mqtt-server (p2, c1, k60).
+1714895575: New connection from 172.20.0.6:36827 on port 1883.
+1714895575: Client python-mqtt-server already connected, closing old connection.
+1714895575: New client connected from 172.20.0.6:36827 as python-mqtt-server (p2, c1, k60).
+1714895576: New connection from 172.20.0.5:45069 on port 1883.
+1714895576: Client python-mqtt-server already connected, closing old connection.
+1714895576: New client connected from 172.20.0.5:45069 as python-mqtt-server (p2, c1, k60).
+1714895577: New connection from 172.20.0.6:42209 on port 1883.
+1714895577: Client python-mqtt-server already connected, closing old connection.
+1714895577: New client connected from 172.20.0.6:42209 as python-mqtt-server (p2, c1, k60).
+1714895578: New connection from 172.20.0.5:56681 on port 1883.
+1714895578: Client python-mqtt-server already connected, closing old connection.
+1714895578: New client connected from 172.20.0.5:56681 as python-mqtt-server (p2, c1, k60).
+1714895579: New connection from 172.20.0.6:45585 on port 1883.
+1714895579: Client python-mqtt-server already connected, closing old connection.
+1714895579: New client connected from 172.20.0.6:45585 as python-mqtt-server (p2, c1, k60).
+1714895580: New connection from 172.20.0.5:36821 on port 1883.
+1714895580: Client python-mqtt-server already connected, closing old connection.
+1714895580: New client connected from 172.20.0.5:36821 as python-mqtt-server (p2, c1, k60).
+1714895581: New connection from 172.20.0.6:41887 on port 1883.
+1714895581: Client python-mqtt-server already connected, closing old connection.
+1714895581: New client connected from 172.20.0.6:41887 as python-mqtt-server (p2, c1, k60).
+1714895582: New connection from 172.20.0.5:57579 on port 1883.
+1714895582: Client python-mqtt-server already connected, closing old connection.
+1714895582: New client connected from 172.20.0.5:57579 as python-mqtt-server (p2, c1, k60).
+1714895583: New connection from 172.20.0.6:44157 on port 1883.
+1714895583: Client python-mqtt-server already connected, closing old connection.
+1714895583: New client connected from 172.20.0.6:44157 as python-mqtt-server (p2, c1, k60).
+1714895584: New connection from 172.20.0.5:50051 on port 1883.
+1714895584: Client python-mqtt-server already connected, closing old connection.
+1714895584: New client connected from 172.20.0.5:50051 as python-mqtt-server (p2, c1, k60).
+1714895585: New connection from 172.20.0.6:58471 on port 1883.
+1714895585: Client python-mqtt-server already connected, closing old connection.
+1714895585: New client connected from 172.20.0.6:58471 as python-mqtt-server (p2, c1, k60).
+1714895586: New connection from 172.20.0.5:52821 on port 1883.
+1714895586: Client python-mqtt-server already connected, closing old connection.
+1714895586: New client connected from 172.20.0.5:52821 as python-mqtt-server (p2, c1, k60).
+1714895587: New connection from 172.20.0.6:42555 on port 1883.
+1714895587: Client python-mqtt-server already connected, closing old connection.
+1714895587: New client connected from 172.20.0.6:42555 as python-mqtt-server (p2, c1, k60).
+1714895588: New connection from 172.20.0.5:33517 on port 1883.
+1714895588: Client python-mqtt-server already connected, closing old connection.
+1714895588: New client connected from 172.20.0.5:33517 as python-mqtt-server (p2, c1, k60).
+1714895589: New connection from 172.20.0.6:36457 on port 1883.
+1714895589: Client python-mqtt-server already connected, closing old connection.
+1714895589: New client connected from 172.20.0.6:36457 as python-mqtt-server (p2, c1, k60).
+1714895590: New connection from 172.20.0.5:51447 on port 1883.
+1714895590: Client python-mqtt-server already connected, closing old connection.
+1714895590: New client connected from 172.20.0.5:51447 as python-mqtt-server (p2, c1, k60).
+1714895591: New connection from 172.20.0.6:33069 on port 1883.
+1714895591: Client python-mqtt-server already connected, closing old connection.
+1714895591: New client connected from 172.20.0.6:33069 as python-mqtt-server (p2, c1, k60).
+1714895592: New connection from 172.20.0.5:57393 on port 1883.
+1714895592: Client python-mqtt-server already connected, closing old connection.
+1714895592: New client connected from 172.20.0.5:57393 as python-mqtt-server (p2, c1, k60).
+1714895593: New connection from 172.20.0.6:42487 on port 1883.
+1714895593: Client python-mqtt-server already connected, closing old connection.
+1714895593: New client connected from 172.20.0.6:42487 as python-mqtt-server (p2, c1, k60).
+1714895594: New connection from 172.20.0.5:34197 on port 1883.
+1714895594: Client python-mqtt-server already connected, closing old connection.
+1714895594: New client connected from 172.20.0.5:34197 as python-mqtt-server (p2, c1, k60).
+1714895595: New connection from 172.20.0.6:42583 on port 1883.
+1714895595: Client python-mqtt-server already connected, closing old connection.
+1714895595: New client connected from 172.20.0.6:42583 as python-mqtt-server (p2, c1, k60).
+1714895596: New connection from 172.20.0.5:48473 on port 1883.
+1714895596: Client python-mqtt-server already connected, closing old connection.
+1714895596: New client connected from 172.20.0.5:48473 as python-mqtt-server (p2, c1, k60).
+1714895597: New connection from 172.20.0.6:58267 on port 1883.
+1714895597: Client python-mqtt-server already connected, closing old connection.
+1714895597: New client connected from 172.20.0.6:58267 as python-mqtt-server (p2, c1, k60).
+1714895598: New connection from 172.20.0.5:41225 on port 1883.
+1714895598: Client python-mqtt-server already connected, closing old connection.
+1714895598: New client connected from 172.20.0.5:41225 as python-mqtt-server (p2, c1, k60).
+1714895599: New connection from 172.20.0.6:48933 on port 1883.
+1714895599: Client python-mqtt-server already connected, closing old connection.
+1714895599: New client connected from 172.20.0.6:48933 as python-mqtt-server (p2, c1, k60).
+1714895600: New connection from 172.20.0.5:60215 on port 1883.
+1714895600: Client python-mqtt-server already connected, closing old connection.
+1714895600: New client connected from 172.20.0.5:60215 as python-mqtt-server (p2, c1, k60).
+1714895601: New connection from 172.20.0.6:50471 on port 1883.
+1714895601: Client python-mqtt-server already connected, closing old connection.
+1714895601: New client connected from 172.20.0.6:50471 as python-mqtt-server (p2, c1, k60).
+1714895602: New connection from 172.20.0.5:47573 on port 1883.
+1714895602: Client python-mqtt-server already connected, closing old connection.
+1714895602: New client connected from 172.20.0.5:47573 as python-mqtt-server (p2, c1, k60).
+1714895603: New connection from 172.20.0.6:37305 on port 1883.
+1714895603: Client python-mqtt-server already connected, closing old connection.
+1714895603: New client connected from 172.20.0.6:37305 as python-mqtt-server (p2, c1, k60).
+1714895604: New connection from 172.20.0.5:56391 on port 1883.
+1714895604: Client python-mqtt-server already connected, closing old connection.
+1714895604: New client connected from 172.20.0.5:56391 as python-mqtt-server (p2, c1, k60).
+1714895605: New connection from 172.20.0.6:41859 on port 1883.
+1714895605: Client python-mqtt-server already connected, closing old connection.
+1714895605: New client connected from 172.20.0.6:41859 as python-mqtt-server (p2, c1, k60).
+1714895605: Client python-mqtt-server closed its connection.
+1714895606: mosquitto version 2.0.18 terminating
+1714895606: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714895606: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714895606: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714895606: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714895699: mosquitto version 2.0.18 starting
+1714895699: Config loaded from /mosquitto/config/mosquitto.conf.
+1714895699: Opening ipv4 listen socket on port 1883.
+1714895699: Opening ipv6 listen socket on port 1883.
+1714895699: Opening ipv4 listen socket on port 9001.
+1714895699: Opening ipv6 listen socket on port 9001.
+1714895699: mosquitto version 2.0.18 running
+1714895700: New connection from 172.18.0.6:44189 on port 1883.
+1714895700: New client connected from 172.18.0.6:44189 as python-mqtt-server (p2, c1, k60).
+1714895700: New connection from 172.18.0.5:59805 on port 1883.
+1714895700: Client python-mqtt-server already connected, closing old connection.
+1714895700: New client connected from 172.18.0.5:59805 as python-mqtt-server (p2, c1, k60).
+1714895701: New connection from 172.18.0.6:45591 on port 1883.
+1714895701: Client python-mqtt-server already connected, closing old connection.
+1714895701: New client connected from 172.18.0.6:45591 as python-mqtt-server (p2, c1, k60).
+1714895702: New connection from 172.18.0.5:55561 on port 1883.
+1714895702: Client python-mqtt-server already connected, closing old connection.
+1714895702: New client connected from 172.18.0.5:55561 as python-mqtt-server (p2, c1, k60).
+1714895703: New connection from 172.18.0.6:33007 on port 1883.
+1714895703: Client python-mqtt-server already connected, closing old connection.
+1714895703: New client connected from 172.18.0.6:33007 as python-mqtt-server (p2, c1, k60).
+1714895704: New connection from 172.18.0.5:44391 on port 1883.
+1714895704: Client python-mqtt-server already connected, closing old connection.
+1714895704: New client connected from 172.18.0.5:44391 as python-mqtt-server (p2, c1, k60).
+1714895705: New connection from 172.18.0.6:41701 on port 1883.
+1714895705: Client python-mqtt-server already connected, closing old connection.
+1714895705: New client connected from 172.18.0.6:41701 as python-mqtt-server (p2, c1, k60).
+1714895706: New connection from 172.18.0.5:33167 on port 1883.
+1714895706: Client python-mqtt-server already connected, closing old connection.
+1714895706: New client connected from 172.18.0.5:33167 as python-mqtt-server (p2, c1, k60).
+1714895707: New connection from 172.18.0.6:38931 on port 1883.
+1714895707: Client python-mqtt-server already connected, closing old connection.
+1714895707: New client connected from 172.18.0.6:38931 as python-mqtt-server (p2, c1, k60).
+1714895708: New connection from 172.18.0.5:41859 on port 1883.
+1714895708: Client python-mqtt-server already connected, closing old connection.
+1714895708: New client connected from 172.18.0.5:41859 as python-mqtt-server (p2, c1, k60).
+1714895709: New connection from 172.18.0.6:50245 on port 1883.
+1714895709: Client python-mqtt-server already connected, closing old connection.
+1714895709: New client connected from 172.18.0.6:50245 as python-mqtt-server (p2, c1, k60).
+1714895710: New connection from 172.18.0.5:34907 on port 1883.
+1714895710: Client python-mqtt-server already connected, closing old connection.
+1714895710: New client connected from 172.18.0.5:34907 as python-mqtt-server (p2, c1, k60).
+1714895711: New connection from 172.18.0.6:35125 on port 1883.
+1714895711: Client python-mqtt-server already connected, closing old connection.
+1714895711: New client connected from 172.18.0.6:35125 as python-mqtt-server (p2, c1, k60).
+1714895712: New connection from 172.18.0.5:43631 on port 1883.
+1714895712: Client python-mqtt-server already connected, closing old connection.
+1714895712: New client connected from 172.18.0.5:43631 as python-mqtt-server (p2, c1, k60).
+1714895713: New connection from 172.18.0.6:51207 on port 1883.
+1714895713: Client python-mqtt-server already connected, closing old connection.
+1714895713: New client connected from 172.18.0.6:51207 as python-mqtt-server (p2, c1, k60).
+1714895714: New connection from 172.18.0.5:52473 on port 1883.
+1714895714: Client python-mqtt-server already connected, closing old connection.
+1714895714: New client connected from 172.18.0.5:52473 as python-mqtt-server (p2, c1, k60).
+1714895715: New connection from 172.18.0.6:37177 on port 1883.
+1714895715: Client python-mqtt-server already connected, closing old connection.
+1714895715: New client connected from 172.18.0.6:37177 as python-mqtt-server (p2, c1, k60).
+1714895716: New connection from 172.18.0.5:43483 on port 1883.
+1714895716: Client python-mqtt-server already connected, closing old connection.
+1714895716: New client connected from 172.18.0.5:43483 as python-mqtt-server (p2, c1, k60).
+1714895717: New connection from 172.18.0.6:33671 on port 1883.
+1714895717: Client python-mqtt-server already connected, closing old connection.
+1714895717: New client connected from 172.18.0.6:33671 as python-mqtt-server (p2, c1, k60).
+1714895718: New connection from 172.18.0.5:53305 on port 1883.
+1714895718: Client python-mqtt-server already connected, closing old connection.
+1714895718: New client connected from 172.18.0.5:53305 as python-mqtt-server (p2, c1, k60).
+1714895719: New connection from 172.18.0.6:54061 on port 1883.
+1714895719: Client python-mqtt-server already connected, closing old connection.
+1714895719: New client connected from 172.18.0.6:54061 as python-mqtt-server (p2, c1, k60).
+1714895720: New connection from 172.18.0.5:54649 on port 1883.
+1714895720: Client python-mqtt-server already connected, closing old connection.
+1714895720: New client connected from 172.18.0.5:54649 as python-mqtt-server (p2, c1, k60).
+1714895721: New connection from 172.18.0.6:43613 on port 1883.
+1714895721: Client python-mqtt-server already connected, closing old connection.
+1714895721: New client connected from 172.18.0.6:43613 as python-mqtt-server (p2, c1, k60).
+1714895722: New connection from 172.18.0.5:33269 on port 1883.
+1714895722: Client python-mqtt-server already connected, closing old connection.
+1714895722: New client connected from 172.18.0.5:33269 as python-mqtt-server (p2, c1, k60).
+1714895723: New connection from 172.18.0.6:36597 on port 1883.
+1714895723: Client python-mqtt-server already connected, closing old connection.
+1714895723: New client connected from 172.18.0.6:36597 as python-mqtt-server (p2, c1, k60).
+1714895724: New connection from 172.18.0.5:44895 on port 1883.
+1714895724: Client python-mqtt-server already connected, closing old connection.
+1714895724: New client connected from 172.18.0.5:44895 as python-mqtt-server (p2, c1, k60).
+1714895725: New connection from 172.18.0.6:39769 on port 1883.
+1714895725: Client python-mqtt-server already connected, closing old connection.
+1714895725: New client connected from 172.18.0.6:39769 as python-mqtt-server (p2, c1, k60).
+1714895726: New connection from 172.18.0.5:47171 on port 1883.
+1714895726: Client python-mqtt-server already connected, closing old connection.
+1714895726: New client connected from 172.18.0.5:47171 as python-mqtt-server (p2, c1, k60).
+1714895727: New connection from 172.18.0.6:53173 on port 1883.
+1714895727: Client python-mqtt-server already connected, closing old connection.
+1714895727: New client connected from 172.18.0.6:53173 as python-mqtt-server (p2, c1, k60).
+1714895728: New connection from 172.18.0.5:36413 on port 1883.
+1714895728: Client python-mqtt-server already connected, closing old connection.
+1714895728: New client connected from 172.18.0.5:36413 as python-mqtt-server (p2, c1, k60).
+1714895729: New connection from 172.18.0.6:36277 on port 1883.
+1714895729: Client python-mqtt-server already connected, closing old connection.
+1714895729: New client connected from 172.18.0.6:36277 as python-mqtt-server (p2, c1, k60).
+1714895730: New connection from 172.18.0.5:52775 on port 1883.
+1714895730: Client python-mqtt-server already connected, closing old connection.
+1714895730: New client connected from 172.18.0.5:52775 as python-mqtt-server (p2, c1, k60).
+1714895731: New connection from 172.18.0.6:38721 on port 1883.
+1714895731: Client python-mqtt-server already connected, closing old connection.
+1714895731: New client connected from 172.18.0.6:38721 as python-mqtt-server (p2, c1, k60).
+1714895732: New connection from 172.18.0.5:53165 on port 1883.
+1714895732: Client python-mqtt-server already connected, closing old connection.
+1714895732: New client connected from 172.18.0.5:53165 as python-mqtt-server (p2, c1, k60).
+1714895733: New connection from 172.18.0.6:57273 on port 1883.
+1714895733: Client python-mqtt-server already connected, closing old connection.
+1714895733: New client connected from 172.18.0.6:57273 as python-mqtt-server (p2, c1, k60).
+1714895734: New connection from 172.18.0.5:55017 on port 1883.
+1714895734: Client python-mqtt-server already connected, closing old connection.
+1714895734: New client connected from 172.18.0.5:55017 as python-mqtt-server (p2, c1, k60).
+1714895735: New connection from 172.18.0.6:36255 on port 1883.
+1714895735: Client python-mqtt-server already connected, closing old connection.
+1714895735: New client connected from 172.18.0.6:36255 as python-mqtt-server (p2, c1, k60).
+1714895736: New connection from 172.18.0.5:40263 on port 1883.
+1714895736: Client python-mqtt-server already connected, closing old connection.
+1714895736: New client connected from 172.18.0.5:40263 as python-mqtt-server (p2, c1, k60).
+1714895737: New connection from 172.18.0.6:51267 on port 1883.
+1714895737: Client python-mqtt-server already connected, closing old connection.
+1714895737: New client connected from 172.18.0.6:51267 as python-mqtt-server (p2, c1, k60).
+1714895738: New connection from 172.18.0.5:49385 on port 1883.
+1714895738: Client python-mqtt-server already connected, closing old connection.
+1714895738: New client connected from 172.18.0.5:49385 as python-mqtt-server (p2, c1, k60).
+1714895739: New connection from 172.18.0.6:45831 on port 1883.
+1714895739: Client python-mqtt-server already connected, closing old connection.
+1714895739: New client connected from 172.18.0.6:45831 as python-mqtt-server (p2, c1, k60).
+1714895740: New connection from 172.18.0.5:43367 on port 1883.
+1714895740: Client python-mqtt-server already connected, closing old connection.
+1714895740: New client connected from 172.18.0.5:43367 as python-mqtt-server (p2, c1, k60).
+1714895741: New connection from 172.18.0.6:33073 on port 1883.
+1714895741: Client python-mqtt-server already connected, closing old connection.
+1714895741: New client connected from 172.18.0.6:33073 as python-mqtt-server (p2, c1, k60).
+1714895742: New connection from 172.18.0.5:52449 on port 1883.
+1714895742: Client python-mqtt-server already connected, closing old connection.
+1714895742: New client connected from 172.18.0.5:52449 as python-mqtt-server (p2, c1, k60).
+1714895743: New connection from 172.18.0.6:52677 on port 1883.
+1714895743: Client python-mqtt-server already connected, closing old connection.
+1714895743: New client connected from 172.18.0.6:52677 as python-mqtt-server (p2, c1, k60).
+1714895744: New connection from 172.18.0.5:50755 on port 1883.
+1714895744: Client python-mqtt-server already connected, closing old connection.
+1714895744: New client connected from 172.18.0.5:50755 as python-mqtt-server (p2, c1, k60).
+1714895745: New connection from 172.18.0.6:50545 on port 1883.
+1714895745: Client python-mqtt-server already connected, closing old connection.
+1714895745: New client connected from 172.18.0.6:50545 as python-mqtt-server (p2, c1, k60).
+1714895746: New connection from 172.18.0.5:50025 on port 1883.
+1714895746: Client python-mqtt-server already connected, closing old connection.
+1714895746: New client connected from 172.18.0.5:50025 as python-mqtt-server (p2, c1, k60).
+1714895747: New connection from 172.18.0.6:49179 on port 1883.
+1714895747: Client python-mqtt-server already connected, closing old connection.
+1714895747: New client connected from 172.18.0.6:49179 as python-mqtt-server (p2, c1, k60).
+1714895748: New connection from 172.18.0.5:49071 on port 1883.
+1714895748: Client python-mqtt-server already connected, closing old connection.
+1714895748: New client connected from 172.18.0.5:49071 as python-mqtt-server (p2, c1, k60).
+1714895749: New connection from 172.18.0.6:47849 on port 1883.
+1714895750: Client python-mqtt-server already connected, closing old connection.
+1714895750: New client connected from 172.18.0.6:47849 as python-mqtt-server (p2, c1, k60).
+1714895751: New connection from 172.18.0.5:37287 on port 1883.
+1714895751: Client python-mqtt-server already connected, closing old connection.
+1714895751: New client connected from 172.18.0.5:37287 as python-mqtt-server (p2, c1, k60).
+1714895752: New connection from 172.18.0.6:49945 on port 1883.
+1714895752: Client python-mqtt-server already connected, closing old connection.
+1714895752: New client connected from 172.18.0.6:49945 as python-mqtt-server (p2, c1, k60).
+1714895753: New connection from 172.18.0.5:37599 on port 1883.
+1714895753: Client python-mqtt-server already connected, closing old connection.
+1714895753: New client connected from 172.18.0.5:37599 as python-mqtt-server (p2, c1, k60).
+1714895754: New connection from 172.18.0.6:34669 on port 1883.
+1714895754: Client python-mqtt-server already connected, closing old connection.
+1714895754: New client connected from 172.18.0.6:34669 as python-mqtt-server (p2, c1, k60).
+1714895755: New connection from 172.18.0.5:50467 on port 1883.
+1714895755: Client python-mqtt-server already connected, closing old connection.
+1714895755: New client connected from 172.18.0.5:50467 as python-mqtt-server (p2, c1, k60).
+1714895756: New connection from 172.18.0.6:44267 on port 1883.
+1714895756: Client python-mqtt-server already connected, closing old connection.
+1714895756: New client connected from 172.18.0.6:44267 as python-mqtt-server (p2, c1, k60).
+1714895757: New connection from 172.18.0.5:54131 on port 1883.
+1714895757: Client python-mqtt-server already connected, closing old connection.
+1714895757: New client connected from 172.18.0.5:54131 as python-mqtt-server (p2, c1, k60).
+1714895758: New connection from 172.18.0.6:59073 on port 1883.
+1714895758: Client python-mqtt-server already connected, closing old connection.
+1714895758: New client connected from 172.18.0.6:59073 as python-mqtt-server (p2, c1, k60).
+1714895759: New connection from 172.18.0.5:43603 on port 1883.
+1714895759: Client python-mqtt-server already connected, closing old connection.
+1714895759: New client connected from 172.18.0.5:43603 as python-mqtt-server (p2, c1, k60).
+1714895760: New connection from 172.18.0.6:33527 on port 1883.
+1714895760: Client python-mqtt-server already connected, closing old connection.
+1714895760: New client connected from 172.18.0.6:33527 as python-mqtt-server (p2, c1, k60).
+1714895761: New connection from 172.18.0.5:33477 on port 1883.
+1714895761: Client python-mqtt-server already connected, closing old connection.
+1714895761: New client connected from 172.18.0.5:33477 as python-mqtt-server (p2, c1, k60).
+1714895762: New connection from 172.18.0.6:47311 on port 1883.
+1714895762: Client python-mqtt-server already connected, closing old connection.
+1714895762: New client connected from 172.18.0.6:47311 as python-mqtt-server (p2, c1, k60).
+1714895763: New connection from 172.18.0.5:48375 on port 1883.
+1714895763: Client python-mqtt-server already connected, closing old connection.
+1714895763: New client connected from 172.18.0.5:48375 as python-mqtt-server (p2, c1, k60).
+1714895764: New connection from 172.18.0.6:44525 on port 1883.
+1714895764: Client python-mqtt-server already connected, closing old connection.
+1714895764: New client connected from 172.18.0.6:44525 as python-mqtt-server (p2, c1, k60).
+1714895765: New connection from 172.18.0.5:39043 on port 1883.
+1714895765: Client python-mqtt-server already connected, closing old connection.
+1714895765: New client connected from 172.18.0.5:39043 as python-mqtt-server (p2, c1, k60).
+1714895766: New connection from 172.18.0.6:47213 on port 1883.
+1714895767: Client python-mqtt-server already connected, closing old connection.
+1714895767: New client connected from 172.18.0.6:47213 as python-mqtt-server (p2, c1, k60).
+1714895768: New connection from 172.18.0.5:59663 on port 1883.
+1714895768: Client python-mqtt-server already connected, closing old connection.
+1714895768: New client connected from 172.18.0.5:59663 as python-mqtt-server (p2, c1, k60).
+1714895769: New connection from 172.18.0.6:38619 on port 1883.
+1714895769: Client python-mqtt-server already connected, closing old connection.
+1714895769: New client connected from 172.18.0.6:38619 as python-mqtt-server (p2, c1, k60).
+1714895770: New connection from 172.18.0.5:35523 on port 1883.
+1714895770: Client python-mqtt-server already connected, closing old connection.
+1714895770: New client connected from 172.18.0.5:35523 as python-mqtt-server (p2, c1, k60).
+1714895771: New connection from 172.18.0.6:33699 on port 1883.
+1714895771: Client python-mqtt-server already connected, closing old connection.
+1714895771: New client connected from 172.18.0.6:33699 as python-mqtt-server (p2, c1, k60).
+1714895772: New connection from 172.18.0.5:43399 on port 1883.
+1714895772: Client python-mqtt-server already connected, closing old connection.
+1714895772: New client connected from 172.18.0.5:43399 as python-mqtt-server (p2, c1, k60).
+1714895773: New connection from 172.18.0.6:55155 on port 1883.
+1714895773: Client python-mqtt-server already connected, closing old connection.
+1714895773: New client connected from 172.18.0.6:55155 as python-mqtt-server (p2, c1, k60).
+1714895774: New connection from 172.18.0.5:35997 on port 1883.
+1714895774: Client python-mqtt-server already connected, closing old connection.
+1714895774: New client connected from 172.18.0.5:35997 as python-mqtt-server (p2, c1, k60).
+1714895775: New connection from 172.18.0.6:38725 on port 1883.
+1714895775: Client python-mqtt-server already connected, closing old connection.
+1714895775: New client connected from 172.18.0.6:38725 as python-mqtt-server (p2, c1, k60).
+1714895776: New connection from 172.18.0.5:49543 on port 1883.
+1714895776: Client python-mqtt-server already connected, closing old connection.
+1714895776: New client connected from 172.18.0.5:49543 as python-mqtt-server (p2, c1, k60).
+1714895777: New connection from 172.18.0.6:33631 on port 1883.
+1714895777: Client python-mqtt-server already connected, closing old connection.
+1714895777: New client connected from 172.18.0.6:33631 as python-mqtt-server (p2, c1, k60).
+1714895778: New connection from 172.18.0.5:40501 on port 1883.
+1714895778: Client python-mqtt-server already connected, closing old connection.
+1714895778: New client connected from 172.18.0.5:40501 as python-mqtt-server (p2, c1, k60).
+1714895779: New connection from 172.18.0.6:35779 on port 1883.
+1714895779: Client python-mqtt-server already connected, closing old connection.
+1714895779: New client connected from 172.18.0.6:35779 as python-mqtt-server (p2, c1, k60).
+1714895780: New connection from 172.18.0.5:57719 on port 1883.
+1714895780: Client python-mqtt-server already connected, closing old connection.
+1714895780: New client connected from 172.18.0.5:57719 as python-mqtt-server (p2, c1, k60).
+1714895781: New connection from 172.18.0.6:41117 on port 1883.
+1714895781: Client python-mqtt-server already connected, closing old connection.
+1714895781: New client connected from 172.18.0.6:41117 as python-mqtt-server (p2, c1, k60).
+1714895782: New connection from 172.18.0.5:43637 on port 1883.
+1714895782: Client python-mqtt-server already connected, closing old connection.
+1714895782: New client connected from 172.18.0.5:43637 as python-mqtt-server (p2, c1, k60).
+1714895783: New connection from 172.18.0.6:55223 on port 1883.
+1714895783: Client python-mqtt-server already connected, closing old connection.
+1714895783: New client connected from 172.18.0.6:55223 as python-mqtt-server (p2, c1, k60).
+1714895784: New connection from 172.18.0.5:58981 on port 1883.
+1714895784: Client python-mqtt-server already connected, closing old connection.
+1714895784: New client connected from 172.18.0.5:58981 as python-mqtt-server (p2, c1, k60).
+1714895785: New connection from 172.18.0.6:60633 on port 1883.
+1714895785: Client python-mqtt-server already connected, closing old connection.
+1714895785: New client connected from 172.18.0.6:60633 as python-mqtt-server (p2, c1, k60).
+1714895786: New connection from 172.18.0.5:40687 on port 1883.
+1714895786: Client python-mqtt-server already connected, closing old connection.
+1714895786: New client connected from 172.18.0.5:40687 as python-mqtt-server (p2, c1, k60).
+1714895787: New connection from 172.18.0.6:40855 on port 1883.
+1714895787: Client python-mqtt-server already connected, closing old connection.
+1714895787: New client connected from 172.18.0.6:40855 as python-mqtt-server (p2, c1, k60).
+1714895788: New connection from 172.18.0.5:44567 on port 1883.
+1714895788: Client python-mqtt-server already connected, closing old connection.
+1714895788: New client connected from 172.18.0.5:44567 as python-mqtt-server (p2, c1, k60).
+1714895789: New connection from 172.18.0.6:54203 on port 1883.
+1714895789: Client python-mqtt-server already connected, closing old connection.
+1714895789: New client connected from 172.18.0.6:54203 as python-mqtt-server (p2, c1, k60).
+1714895790: New connection from 172.18.0.5:58325 on port 1883.
+1714895790: Client python-mqtt-server already connected, closing old connection.
+1714895790: New client connected from 172.18.0.5:58325 as python-mqtt-server (p2, c1, k60).
+1714895791: New connection from 172.18.0.6:57231 on port 1883.
+1714895791: Client python-mqtt-server already connected, closing old connection.
+1714895791: New client connected from 172.18.0.6:57231 as python-mqtt-server (p2, c1, k60).
+1714895792: New connection from 172.18.0.5:58067 on port 1883.
+1714895792: Client python-mqtt-server already connected, closing old connection.
+1714895792: New client connected from 172.18.0.5:58067 as python-mqtt-server (p2, c1, k60).
+1714895793: New connection from 172.18.0.6:44911 on port 1883.
+1714895793: Client python-mqtt-server already connected, closing old connection.
+1714895793: New client connected from 172.18.0.6:44911 as python-mqtt-server (p2, c1, k60).
+1714895794: New connection from 172.18.0.5:48303 on port 1883.
+1714895794: Client python-mqtt-server already connected, closing old connection.
+1714895794: New client connected from 172.18.0.5:48303 as python-mqtt-server (p2, c1, k60).
+1714895795: New connection from 172.18.0.6:46593 on port 1883.
+1714895795: Client python-mqtt-server already connected, closing old connection.
+1714895795: New client connected from 172.18.0.6:46593 as python-mqtt-server (p2, c1, k60).
+1714895796: New connection from 172.18.0.5:57115 on port 1883.
+1714895796: Client python-mqtt-server already connected, closing old connection.
+1714895796: New client connected from 172.18.0.5:57115 as python-mqtt-server (p2, c1, k60).
+1714895797: New connection from 172.18.0.6:57407 on port 1883.
+1714895797: Client python-mqtt-server already connected, closing old connection.
+1714895797: New client connected from 172.18.0.6:57407 as python-mqtt-server (p2, c1, k60).
+1714895798: New connection from 172.18.0.5:59187 on port 1883.
+1714895798: Client python-mqtt-server already connected, closing old connection.
+1714895798: New client connected from 172.18.0.5:59187 as python-mqtt-server (p2, c1, k60).
+1714895799: New connection from 172.18.0.6:36911 on port 1883.
+1714895799: Client python-mqtt-server already connected, closing old connection.
+1714895799: New client connected from 172.18.0.6:36911 as python-mqtt-server (p2, c1, k60).
+1714895800: New connection from 172.18.0.5:33389 on port 1883.
+1714895800: Client python-mqtt-server already connected, closing old connection.
+1714895800: New client connected from 172.18.0.5:33389 as python-mqtt-server (p2, c1, k60).
+1714895801: New connection from 172.18.0.6:38499 on port 1883.
+1714895801: Client python-mqtt-server already connected, closing old connection.
+1714895801: New client connected from 172.18.0.6:38499 as python-mqtt-server (p2, c1, k60).
+1714895802: New connection from 172.18.0.5:57379 on port 1883.
+1714895802: Client python-mqtt-server already connected, closing old connection.
+1714895802: New client connected from 172.18.0.5:57379 as python-mqtt-server (p2, c1, k60).
+1714895803: New connection from 172.18.0.6:59543 on port 1883.
+1714895803: Client python-mqtt-server already connected, closing old connection.
+1714895803: New client connected from 172.18.0.6:59543 as python-mqtt-server (p2, c1, k60).
+1714895804: New connection from 172.18.0.5:34793 on port 1883.
+1714895804: Client python-mqtt-server already connected, closing old connection.
+1714895804: New client connected from 172.18.0.5:34793 as python-mqtt-server (p2, c1, k60).
+1714895805: New connection from 172.18.0.6:57121 on port 1883.
+1714895805: Client python-mqtt-server already connected, closing old connection.
+1714895805: New client connected from 172.18.0.6:57121 as python-mqtt-server (p2, c1, k60).
+1714895806: New connection from 172.18.0.5:56383 on port 1883.
+1714895806: Client python-mqtt-server already connected, closing old connection.
+1714895806: New client connected from 172.18.0.5:56383 as python-mqtt-server (p2, c1, k60).
+1714895807: New connection from 172.18.0.6:59991 on port 1883.
+1714895807: Client python-mqtt-server already connected, closing old connection.
+1714895807: New client connected from 172.18.0.6:59991 as python-mqtt-server (p2, c1, k60).
+1714895808: New connection from 172.18.0.5:49107 on port 1883.
+1714895808: Client python-mqtt-server already connected, closing old connection.
+1714895808: New client connected from 172.18.0.5:49107 as python-mqtt-server (p2, c1, k60).
+1714895809: New connection from 172.18.0.6:47253 on port 1883.
+1714895809: Client python-mqtt-server already connected, closing old connection.
+1714895809: New client connected from 172.18.0.6:47253 as python-mqtt-server (p2, c1, k60).
+1714895810: New connection from 172.18.0.5:49295 on port 1883.
+1714895810: Client python-mqtt-server already connected, closing old connection.
+1714895810: New client connected from 172.18.0.5:49295 as python-mqtt-server (p2, c1, k60).
+1714895811: New connection from 172.18.0.6:37419 on port 1883.
+1714895811: Client python-mqtt-server already connected, closing old connection.
+1714895811: New client connected from 172.18.0.6:37419 as python-mqtt-server (p2, c1, k60).
+1714895812: New connection from 172.18.0.5:36641 on port 1883.
+1714895812: Client python-mqtt-server already connected, closing old connection.
+1714895812: New client connected from 172.18.0.5:36641 as python-mqtt-server (p2, c1, k60).
+1714895813: New connection from 172.18.0.6:55095 on port 1883.
+1714895813: Client python-mqtt-server already connected, closing old connection.
+1714895813: New client connected from 172.18.0.6:55095 as python-mqtt-server (p2, c1, k60).
+1714895814: New connection from 172.18.0.5:36035 on port 1883.
+1714895814: Client python-mqtt-server already connected, closing old connection.
+1714895814: New client connected from 172.18.0.5:36035 as python-mqtt-server (p2, c1, k60).
+1714895815: New connection from 172.18.0.6:41857 on port 1883.
+1714895815: Client python-mqtt-server already connected, closing old connection.
+1714895815: New client connected from 172.18.0.6:41857 as python-mqtt-server (p2, c1, k60).
+1714895816: New connection from 172.18.0.5:44145 on port 1883.
+1714895816: Client python-mqtt-server already connected, closing old connection.
+1714895816: New client connected from 172.18.0.5:44145 as python-mqtt-server (p2, c1, k60).
+1714895817: New connection from 172.18.0.6:55435 on port 1883.
+1714895817: Client python-mqtt-server already connected, closing old connection.
+1714895817: New client connected from 172.18.0.6:55435 as python-mqtt-server (p2, c1, k60).
+1714895818: New connection from 172.18.0.5:36967 on port 1883.
+1714895818: Client python-mqtt-server already connected, closing old connection.
+1714895818: New client connected from 172.18.0.5:36967 as python-mqtt-server (p2, c1, k60).
+1714895819: New connection from 172.18.0.6:50841 on port 1883.
+1714895819: Client python-mqtt-server already connected, closing old connection.
+1714895819: New client connected from 172.18.0.6:50841 as python-mqtt-server (p2, c1, k60).
+1714895820: New connection from 172.18.0.5:47823 on port 1883.
+1714895820: Client python-mqtt-server already connected, closing old connection.
+1714895820: New client connected from 172.18.0.5:47823 as python-mqtt-server (p2, c1, k60).
+1714895821: New connection from 172.18.0.6:56663 on port 1883.
+1714895821: Client python-mqtt-server already connected, closing old connection.
+1714895821: New client connected from 172.18.0.6:56663 as python-mqtt-server (p2, c1, k60).
+1714895822: New connection from 172.18.0.5:58571 on port 1883.
+1714895822: Client python-mqtt-server already connected, closing old connection.
+1714895822: New client connected from 172.18.0.5:58571 as python-mqtt-server (p2, c1, k60).
+1714895823: New connection from 172.18.0.6:43781 on port 1883.
+1714895823: Client python-mqtt-server already connected, closing old connection.
+1714895823: New client connected from 172.18.0.6:43781 as python-mqtt-server (p2, c1, k60).
+1714895824: New connection from 172.18.0.5:59739 on port 1883.
+1714895824: Client python-mqtt-server already connected, closing old connection.
+1714895824: New client connected from 172.18.0.5:59739 as python-mqtt-server (p2, c1, k60).
+1714895825: New connection from 172.18.0.6:46355 on port 1883.
+1714895825: Client python-mqtt-server already connected, closing old connection.
+1714895825: New client connected from 172.18.0.6:46355 as python-mqtt-server (p2, c1, k60).
+1714895826: New connection from 172.18.0.5:38969 on port 1883.
+1714895826: Client python-mqtt-server already connected, closing old connection.
+1714895826: New client connected from 172.18.0.5:38969 as python-mqtt-server (p2, c1, k60).
+1714895827: New connection from 172.18.0.6:45233 on port 1883.
+1714895827: Client python-mqtt-server already connected, closing old connection.
+1714895827: New client connected from 172.18.0.6:45233 as python-mqtt-server (p2, c1, k60).
+1714895828: New connection from 172.18.0.5:54387 on port 1883.
+1714895828: Client python-mqtt-server already connected, closing old connection.
+1714895828: New client connected from 172.18.0.5:54387 as python-mqtt-server (p2, c1, k60).
+1714895829: New connection from 172.18.0.6:50439 on port 1883.
+1714895829: Client python-mqtt-server already connected, closing old connection.
+1714895829: New client connected from 172.18.0.6:50439 as python-mqtt-server (p2, c1, k60).
+1714895830: New connection from 172.18.0.5:48035 on port 1883.
+1714895830: Client python-mqtt-server already connected, closing old connection.
+1714895830: New client connected from 172.18.0.5:48035 as python-mqtt-server (p2, c1, k60).
+1714895831: New connection from 172.18.0.6:59097 on port 1883.
+1714895831: Client python-mqtt-server already connected, closing old connection.
+1714895831: New client connected from 172.18.0.6:59097 as python-mqtt-server (p2, c1, k60).
+1714895832: New connection from 172.18.0.5:33621 on port 1883.
+1714895832: Client python-mqtt-server already connected, closing old connection.
+1714895832: New client connected from 172.18.0.5:33621 as python-mqtt-server (p2, c1, k60).
+1714895833: New connection from 172.18.0.6:33733 on port 1883.
+1714895833: Client python-mqtt-server already connected, closing old connection.
+1714895833: New client connected from 172.18.0.6:33733 as python-mqtt-server (p2, c1, k60).
+1714895834: New connection from 172.18.0.5:59175 on port 1883.
+1714895834: Client python-mqtt-server already connected, closing old connection.
+1714895834: New client connected from 172.18.0.5:59175 as python-mqtt-server (p2, c1, k60).
+1714895835: New connection from 172.18.0.6:59037 on port 1883.
+1714895835: Client python-mqtt-server already connected, closing old connection.
+1714895835: New client connected from 172.18.0.6:59037 as python-mqtt-server (p2, c1, k60).
+1714895836: New connection from 172.18.0.5:56267 on port 1883.
+1714895836: Client python-mqtt-server already connected, closing old connection.
+1714895836: New client connected from 172.18.0.5:56267 as python-mqtt-server (p2, c1, k60).
+1714895837: New connection from 172.18.0.6:47447 on port 1883.
+1714895837: Client python-mqtt-server already connected, closing old connection.
+1714895837: New client connected from 172.18.0.6:47447 as python-mqtt-server (p2, c1, k60).
+1714895838: New connection from 172.18.0.5:46065 on port 1883.
+1714895838: Client python-mqtt-server already connected, closing old connection.
+1714895838: New client connected from 172.18.0.5:46065 as python-mqtt-server (p2, c1, k60).
+1714895839: New connection from 172.18.0.6:49387 on port 1883.
+1714895839: Client python-mqtt-server already connected, closing old connection.
+1714895839: New client connected from 172.18.0.6:49387 as python-mqtt-server (p2, c1, k60).
+1714895840: New connection from 172.18.0.5:44227 on port 1883.
+1714895840: Client python-mqtt-server already connected, closing old connection.
+1714895840: New client connected from 172.18.0.5:44227 as python-mqtt-server (p2, c1, k60).
+1714895841: New connection from 172.18.0.6:51617 on port 1883.
+1714895841: Client python-mqtt-server already connected, closing old connection.
+1714895841: New client connected from 172.18.0.6:51617 as python-mqtt-server (p2, c1, k60).
+1714895842: New connection from 172.18.0.5:53929 on port 1883.
+1714895842: Client python-mqtt-server already connected, closing old connection.
+1714895842: New client connected from 172.18.0.5:53929 as python-mqtt-server (p2, c1, k60).
+1714895843: New connection from 172.18.0.6:40389 on port 1883.
+1714895843: Client python-mqtt-server already connected, closing old connection.
+1714895843: New client connected from 172.18.0.6:40389 as python-mqtt-server (p2, c1, k60).
+1714895844: New connection from 172.18.0.5:40317 on port 1883.
+1714895844: Client python-mqtt-server already connected, closing old connection.
+1714895844: New client connected from 172.18.0.5:40317 as python-mqtt-server (p2, c1, k60).
+1714895845: New connection from 172.18.0.6:57857 on port 1883.
+1714895845: Client python-mqtt-server already connected, closing old connection.
+1714895845: New client connected from 172.18.0.6:57857 as python-mqtt-server (p2, c1, k60).
+1714895846: New connection from 172.18.0.5:40561 on port 1883.
+1714895846: Client python-mqtt-server already connected, closing old connection.
+1714895846: New client connected from 172.18.0.5:40561 as python-mqtt-server (p2, c1, k60).
+1714895847: New connection from 172.18.0.6:57811 on port 1883.
+1714895847: Client python-mqtt-server already connected, closing old connection.
+1714895847: New client connected from 172.18.0.6:57811 as python-mqtt-server (p2, c1, k60).
+1714895848: New connection from 172.18.0.5:54147 on port 1883.
+1714895848: Client python-mqtt-server already connected, closing old connection.
+1714895848: New client connected from 172.18.0.5:54147 as python-mqtt-server (p2, c1, k60).
+1714895849: New connection from 172.18.0.6:46719 on port 1883.
+1714895849: Client python-mqtt-server already connected, closing old connection.
+1714895849: New client connected from 172.18.0.6:46719 as python-mqtt-server (p2, c1, k60).
+1714895850: New connection from 172.18.0.5:59833 on port 1883.
+1714895850: Client python-mqtt-server already connected, closing old connection.
+1714895850: New client connected from 172.18.0.5:59833 as python-mqtt-server (p2, c1, k60).
+1714895851: New connection from 172.18.0.6:56447 on port 1883.
+1714895851: Client python-mqtt-server already connected, closing old connection.
+1714895851: New client connected from 172.18.0.6:56447 as python-mqtt-server (p2, c1, k60).
+1714895852: New connection from 172.18.0.5:50677 on port 1883.
+1714895852: Client python-mqtt-server already connected, closing old connection.
+1714895852: New client connected from 172.18.0.5:50677 as python-mqtt-server (p2, c1, k60).
+1714895853: New connection from 172.18.0.6:44041 on port 1883.
+1714895853: Client python-mqtt-server already connected, closing old connection.
+1714895853: New client connected from 172.18.0.6:44041 as python-mqtt-server (p2, c1, k60).
+1714895854: New connection from 172.18.0.5:36321 on port 1883.
+1714895854: Client python-mqtt-server already connected, closing old connection.
+1714895854: New client connected from 172.18.0.5:36321 as python-mqtt-server (p2, c1, k60).
+1714895855: New connection from 172.18.0.6:50269 on port 1883.
+1714895855: Client python-mqtt-server already connected, closing old connection.
+1714895855: New client connected from 172.18.0.6:50269 as python-mqtt-server (p2, c1, k60).
+1714895856: New connection from 172.18.0.5:50423 on port 1883.
+1714895856: Client python-mqtt-server already connected, closing old connection.
+1714895856: New client connected from 172.18.0.5:50423 as python-mqtt-server (p2, c1, k60).
+1714895857: New connection from 172.18.0.6:46851 on port 1883.
+1714895857: Client python-mqtt-server already connected, closing old connection.
+1714895857: New client connected from 172.18.0.6:46851 as python-mqtt-server (p2, c1, k60).
+1714895858: New connection from 172.18.0.5:57845 on port 1883.
+1714895858: Client python-mqtt-server already connected, closing old connection.
+1714895858: New client connected from 172.18.0.5:57845 as python-mqtt-server (p2, c1, k60).
+1714895859: New connection from 172.18.0.6:58771 on port 1883.
+1714895859: Client python-mqtt-server already connected, closing old connection.
+1714895859: New client connected from 172.18.0.6:58771 as python-mqtt-server (p2, c1, k60).
+1714895860: New connection from 172.18.0.5:53319 on port 1883.
+1714895860: Client python-mqtt-server already connected, closing old connection.
+1714895860: New client connected from 172.18.0.5:53319 as python-mqtt-server (p2, c1, k60).
+1714895861: New connection from 172.18.0.6:34491 on port 1883.
+1714895861: Client python-mqtt-server already connected, closing old connection.
+1714895861: New client connected from 172.18.0.6:34491 as python-mqtt-server (p2, c1, k60).
+1714895862: New connection from 172.18.0.5:46031 on port 1883.
+1714895862: Client python-mqtt-server already connected, closing old connection.
+1714895862: New client connected from 172.18.0.5:46031 as python-mqtt-server (p2, c1, k60).
+1714895863: New connection from 172.18.0.6:56507 on port 1883.
+1714895863: Client python-mqtt-server already connected, closing old connection.
+1714895863: New client connected from 172.18.0.6:56507 as python-mqtt-server (p2, c1, k60).
+1714895864: New connection from 172.18.0.5:52293 on port 1883.
+1714895864: Client python-mqtt-server already connected, closing old connection.
+1714895864: New client connected from 172.18.0.5:52293 as python-mqtt-server (p2, c1, k60).
+1714895865: New connection from 172.18.0.6:37695 on port 1883.
+1714895865: Client python-mqtt-server already connected, closing old connection.
+1714895865: New client connected from 172.18.0.6:37695 as python-mqtt-server (p2, c1, k60).
+1714895866: New connection from 172.18.0.5:44223 on port 1883.
+1714895866: Client python-mqtt-server already connected, closing old connection.
+1714895866: New client connected from 172.18.0.5:44223 as python-mqtt-server (p2, c1, k60).
+1714895867: New connection from 172.18.0.6:56353 on port 1883.
+1714895867: Client python-mqtt-server already connected, closing old connection.
+1714895867: New client connected from 172.18.0.6:56353 as python-mqtt-server (p2, c1, k60).
+1714895868: New connection from 172.18.0.5:57037 on port 1883.
+1714895868: Client python-mqtt-server already connected, closing old connection.
+1714895868: New client connected from 172.18.0.5:57037 as python-mqtt-server (p2, c1, k60).
+1714895869: New connection from 172.18.0.6:34525 on port 1883.
+1714895869: Client python-mqtt-server already connected, closing old connection.
+1714895869: New client connected from 172.18.0.6:34525 as python-mqtt-server (p2, c1, k60).
+1714895870: New connection from 172.18.0.5:34821 on port 1883.
+1714895870: Client python-mqtt-server already connected, closing old connection.
+1714895870: New client connected from 172.18.0.5:34821 as python-mqtt-server (p2, c1, k60).
+1714895872: New connection from 172.18.0.6:51377 on port 1883.
+1714895872: Client python-mqtt-server already connected, closing old connection.
+1714895872: New client connected from 172.18.0.6:51377 as python-mqtt-server (p2, c1, k60).
+1714895873: New connection from 172.18.0.5:48775 on port 1883.
+1714895873: Client python-mqtt-server already connected, closing old connection.
+1714895873: New client connected from 172.18.0.5:48775 as python-mqtt-server (p2, c1, k60).
+1714895874: New connection from 172.18.0.6:41701 on port 1883.
+1714895874: Client python-mqtt-server already connected, closing old connection.
+1714895874: New client connected from 172.18.0.6:41701 as python-mqtt-server (p2, c1, k60).
+1714895875: New connection from 172.18.0.5:50133 on port 1883.
+1714895875: Client python-mqtt-server already connected, closing old connection.
+1714895875: New client connected from 172.18.0.5:50133 as python-mqtt-server (p2, c1, k60).
+1714895876: New connection from 172.18.0.6:59975 on port 1883.
+1714895876: Client python-mqtt-server already connected, closing old connection.
+1714895876: New client connected from 172.18.0.6:59975 as python-mqtt-server (p2, c1, k60).
+1714895877: New connection from 172.18.0.5:37055 on port 1883.
+1714895877: Client python-mqtt-server already connected, closing old connection.
+1714895877: New client connected from 172.18.0.5:37055 as python-mqtt-server (p2, c1, k60).
+1714895878: New connection from 172.18.0.6:42983 on port 1883.
+1714895878: Client python-mqtt-server already connected, closing old connection.
+1714895878: New client connected from 172.18.0.6:42983 as python-mqtt-server (p2, c1, k60).
+1714895879: New connection from 172.18.0.5:38353 on port 1883.
+1714895879: Client python-mqtt-server already connected, closing old connection.
+1714895879: New client connected from 172.18.0.5:38353 as python-mqtt-server (p2, c1, k60).
+1714895880: New connection from 172.18.0.6:40769 on port 1883.
+1714895880: Client python-mqtt-server already connected, closing old connection.
+1714895880: New client connected from 172.18.0.6:40769 as python-mqtt-server (p2, c1, k60).
+1714895881: New connection from 172.18.0.5:39147 on port 1883.
+1714895881: Client python-mqtt-server already connected, closing old connection.
+1714895881: New client connected from 172.18.0.5:39147 as python-mqtt-server (p2, c1, k60).
+1714895882: New connection from 172.18.0.6:55177 on port 1883.
+1714895882: Client python-mqtt-server already connected, closing old connection.
+1714895882: New client connected from 172.18.0.6:55177 as python-mqtt-server (p2, c1, k60).
+1714895883: New connection from 172.18.0.5:59871 on port 1883.
+1714895883: Client python-mqtt-server already connected, closing old connection.
+1714895883: New client connected from 172.18.0.5:59871 as python-mqtt-server (p2, c1, k60).
+1714895884: New connection from 172.18.0.6:39561 on port 1883.
+1714895884: Client python-mqtt-server already connected, closing old connection.
+1714895884: New client connected from 172.18.0.6:39561 as python-mqtt-server (p2, c1, k60).
+1714895885: New connection from 172.18.0.5:40273 on port 1883.
+1714895885: Client python-mqtt-server already connected, closing old connection.
+1714895885: New client connected from 172.18.0.5:40273 as python-mqtt-server (p2, c1, k60).
+1714895886: New connection from 172.18.0.6:47801 on port 1883.
+1714895886: Client python-mqtt-server already connected, closing old connection.
+1714895886: New client connected from 172.18.0.6:47801 as python-mqtt-server (p2, c1, k60).
+1714895887: New connection from 172.18.0.5:47865 on port 1883.
+1714895887: Client python-mqtt-server already connected, closing old connection.
+1714895887: New client connected from 172.18.0.5:47865 as python-mqtt-server (p2, c1, k60).
+1714895888: New connection from 172.18.0.6:54755 on port 1883.
+1714895888: Client python-mqtt-server already connected, closing old connection.
+1714895888: New client connected from 172.18.0.6:54755 as python-mqtt-server (p2, c1, k60).
+1714895889: New connection from 172.18.0.5:49767 on port 1883.
+1714895889: Client python-mqtt-server already connected, closing old connection.
+1714895889: New client connected from 172.18.0.5:49767 as python-mqtt-server (p2, c1, k60).
+1714895890: New connection from 172.18.0.6:55233 on port 1883.
+1714895890: Client python-mqtt-server already connected, closing old connection.
+1714895890: New client connected from 172.18.0.6:55233 as python-mqtt-server (p2, c1, k60).
+1714895891: New connection from 172.18.0.5:47969 on port 1883.
+1714895891: Client python-mqtt-server already connected, closing old connection.
+1714895891: New client connected from 172.18.0.5:47969 as python-mqtt-server (p2, c1, k60).
+1714895892: New connection from 172.18.0.6:50669 on port 1883.
+1714895892: Client python-mqtt-server already connected, closing old connection.
+1714895892: New client connected from 172.18.0.6:50669 as python-mqtt-server (p2, c1, k60).
+1714895893: New connection from 172.18.0.5:54605 on port 1883.
+1714895893: Client python-mqtt-server already connected, closing old connection.
+1714895893: New client connected from 172.18.0.5:54605 as python-mqtt-server (p2, c1, k60).
+1714895894: New connection from 172.18.0.6:56095 on port 1883.
+1714895894: Client python-mqtt-server already connected, closing old connection.
+1714895894: New client connected from 172.18.0.6:56095 as python-mqtt-server (p2, c1, k60).
+1714895895: New connection from 172.18.0.5:59039 on port 1883.
+1714895895: Client python-mqtt-server already connected, closing old connection.
+1714895895: New client connected from 172.18.0.5:59039 as python-mqtt-server (p2, c1, k60).
+1714895896: New connection from 172.18.0.6:56043 on port 1883.
+1714895896: Client python-mqtt-server already connected, closing old connection.
+1714895896: New client connected from 172.18.0.6:56043 as python-mqtt-server (p2, c1, k60).
+1714895897: New connection from 172.18.0.5:59571 on port 1883.
+1714895897: Client python-mqtt-server already connected, closing old connection.
+1714895897: New client connected from 172.18.0.5:59571 as python-mqtt-server (p2, c1, k60).
+1714895898: New connection from 172.18.0.6:58739 on port 1883.
+1714895898: Client python-mqtt-server already connected, closing old connection.
+1714895898: New client connected from 172.18.0.6:58739 as python-mqtt-server (p2, c1, k60).
+1714895899: New connection from 172.18.0.5:34911 on port 1883.
+1714895899: Client python-mqtt-server already connected, closing old connection.
+1714895899: New client connected from 172.18.0.5:34911 as python-mqtt-server (p2, c1, k60).
+1714895900: New connection from 172.18.0.6:33805 on port 1883.
+1714895900: Client python-mqtt-server already connected, closing old connection.
+1714895900: New client connected from 172.18.0.6:33805 as python-mqtt-server (p2, c1, k60).
+1714895901: New connection from 172.18.0.5:32829 on port 1883.
+1714895901: Client python-mqtt-server already connected, closing old connection.
+1714895901: New client connected from 172.18.0.5:32829 as python-mqtt-server (p2, c1, k60).
+1714895902: New connection from 172.18.0.6:38335 on port 1883.
+1714895902: Client python-mqtt-server already connected, closing old connection.
+1714895902: New client connected from 172.18.0.6:38335 as python-mqtt-server (p2, c1, k60).
+1714895903: New connection from 172.18.0.5:55195 on port 1883.
+1714895903: Client python-mqtt-server already connected, closing old connection.
+1714895903: New client connected from 172.18.0.5:55195 as python-mqtt-server (p2, c1, k60).
+1714895904: New connection from 172.18.0.6:60965 on port 1883.
+1714895904: Client python-mqtt-server already connected, closing old connection.
+1714895904: New client connected from 172.18.0.6:60965 as python-mqtt-server (p2, c1, k60).
+1714895905: New connection from 172.18.0.5:38121 on port 1883.
+1714895905: Client python-mqtt-server already connected, closing old connection.
+1714895905: New client connected from 172.18.0.5:38121 as python-mqtt-server (p2, c1, k60).
+1714895906: New connection from 172.18.0.6:35129 on port 1883.
+1714895906: Client python-mqtt-server already connected, closing old connection.
+1714895906: New client connected from 172.18.0.6:35129 as python-mqtt-server (p2, c1, k60).
+1714895907: New connection from 172.18.0.5:52175 on port 1883.
+1714895907: Client python-mqtt-server already connected, closing old connection.
+1714895907: New client connected from 172.18.0.5:52175 as python-mqtt-server (p2, c1, k60).
+1714895908: New connection from 172.18.0.6:36295 on port 1883.
+1714895908: Client python-mqtt-server already connected, closing old connection.
+1714895908: New client connected from 172.18.0.6:36295 as python-mqtt-server (p2, c1, k60).
+1714895909: New connection from 172.18.0.5:56199 on port 1883.
+1714895909: Client python-mqtt-server already connected, closing old connection.
+1714895909: New client connected from 172.18.0.5:56199 as python-mqtt-server (p2, c1, k60).
+1714895910: New connection from 172.18.0.6:45983 on port 1883.
+1714895910: Client python-mqtt-server already connected, closing old connection.
+1714895910: New client connected from 172.18.0.6:45983 as python-mqtt-server (p2, c1, k60).
+1714895911: New connection from 172.18.0.5:49145 on port 1883.
+1714895911: Client python-mqtt-server already connected, closing old connection.
+1714895911: New client connected from 172.18.0.5:49145 as python-mqtt-server (p2, c1, k60).
+1714895912: New connection from 172.18.0.6:48115 on port 1883.
+1714895912: Client python-mqtt-server already connected, closing old connection.
+1714895912: New client connected from 172.18.0.6:48115 as python-mqtt-server (p2, c1, k60).
+1714895913: New connection from 172.18.0.5:46687 on port 1883.
+1714895913: Client python-mqtt-server already connected, closing old connection.
+1714895913: New client connected from 172.18.0.5:46687 as python-mqtt-server (p2, c1, k60).
+1714895914: New connection from 172.18.0.6:47935 on port 1883.
+1714895914: Client python-mqtt-server already connected, closing old connection.
+1714895914: New client connected from 172.18.0.6:47935 as python-mqtt-server (p2, c1, k60).
+1714895915: New connection from 172.18.0.5:51905 on port 1883.
+1714895915: Client python-mqtt-server already connected, closing old connection.
+1714895915: New client connected from 172.18.0.5:51905 as python-mqtt-server (p2, c1, k60).
+1714895916: New connection from 172.18.0.6:56797 on port 1883.
+1714895916: Client python-mqtt-server already connected, closing old connection.
+1714895916: New client connected from 172.18.0.6:56797 as python-mqtt-server (p2, c1, k60).
+1714895917: New connection from 172.18.0.5:56947 on port 1883.
+1714895917: Client python-mqtt-server already connected, closing old connection.
+1714895917: New client connected from 172.18.0.5:56947 as python-mqtt-server (p2, c1, k60).
+1714895918: New connection from 172.18.0.6:50925 on port 1883.
+1714895918: Client python-mqtt-server already connected, closing old connection.
+1714895918: New client connected from 172.18.0.6:50925 as python-mqtt-server (p2, c1, k60).
+1714895919: New connection from 172.18.0.5:54801 on port 1883.
+1714895919: Client python-mqtt-server already connected, closing old connection.
+1714895919: New client connected from 172.18.0.5:54801 as python-mqtt-server (p2, c1, k60).
+1714895920: New connection from 172.18.0.6:34009 on port 1883.
+1714895920: Client python-mqtt-server already connected, closing old connection.
+1714895920: New client connected from 172.18.0.6:34009 as python-mqtt-server (p2, c1, k60).
+1714895921: New connection from 172.18.0.5:33083 on port 1883.
+1714895921: Client python-mqtt-server already connected, closing old connection.
+1714895921: New client connected from 172.18.0.5:33083 as python-mqtt-server (p2, c1, k60).
+1714895922: New connection from 172.18.0.6:44477 on port 1883.
+1714895922: Client python-mqtt-server already connected, closing old connection.
+1714895922: New client connected from 172.18.0.6:44477 as python-mqtt-server (p2, c1, k60).
+1714895923: New connection from 172.18.0.5:51559 on port 1883.
+1714895923: Client python-mqtt-server already connected, closing old connection.
+1714895923: New client connected from 172.18.0.5:51559 as python-mqtt-server (p2, c1, k60).
+1714895924: New connection from 172.18.0.6:51715 on port 1883.
+1714895924: Client python-mqtt-server already connected, closing old connection.
+1714895924: New client connected from 172.18.0.6:51715 as python-mqtt-server (p2, c1, k60).
+1714895925: New connection from 172.18.0.5:50083 on port 1883.
+1714895925: Client python-mqtt-server already connected, closing old connection.
+1714895925: New client connected from 172.18.0.5:50083 as python-mqtt-server (p2, c1, k60).
+1714895926: New connection from 172.18.0.6:39219 on port 1883.
+1714895926: Client python-mqtt-server already connected, closing old connection.
+1714895926: New client connected from 172.18.0.6:39219 as python-mqtt-server (p2, c1, k60).
+1714895927: New connection from 172.18.0.5:41375 on port 1883.
+1714895927: Client python-mqtt-server already connected, closing old connection.
+1714895927: New client connected from 172.18.0.5:41375 as python-mqtt-server (p2, c1, k60).
+1714895928: New connection from 172.18.0.6:43187 on port 1883.
+1714895928: Client python-mqtt-server already connected, closing old connection.
+1714895928: New client connected from 172.18.0.6:43187 as python-mqtt-server (p2, c1, k60).
+1714895929: New connection from 172.18.0.5:47179 on port 1883.
+1714895929: Client python-mqtt-server already connected, closing old connection.
+1714895929: New client connected from 172.18.0.5:47179 as python-mqtt-server (p2, c1, k60).
+1714895930: New connection from 172.18.0.6:47391 on port 1883.
+1714895930: Client python-mqtt-server already connected, closing old connection.
+1714895930: New client connected from 172.18.0.6:47391 as python-mqtt-server (p2, c1, k60).
+1714895931: New connection from 172.18.0.5:47109 on port 1883.
+1714895931: Client python-mqtt-server already connected, closing old connection.
+1714895931: New client connected from 172.18.0.5:47109 as python-mqtt-server (p2, c1, k60).
+1714895932: New connection from 172.18.0.6:51485 on port 1883.
+1714895932: Client python-mqtt-server already connected, closing old connection.
+1714895932: New client connected from 172.18.0.6:51485 as python-mqtt-server (p2, c1, k60).
+1714895933: New connection from 172.18.0.5:42955 on port 1883.
+1714895933: Client python-mqtt-server already connected, closing old connection.
+1714895933: New client connected from 172.18.0.5:42955 as python-mqtt-server (p2, c1, k60).
+1714895934: New connection from 172.18.0.6:40493 on port 1883.
+1714895934: Client python-mqtt-server already connected, closing old connection.
+1714895934: New client connected from 172.18.0.6:40493 as python-mqtt-server (p2, c1, k60).
+1714895935: New connection from 172.18.0.5:55863 on port 1883.
+1714895935: Client python-mqtt-server already connected, closing old connection.
+1714895935: New client connected from 172.18.0.5:55863 as python-mqtt-server (p2, c1, k60).
+1714895936: New connection from 172.18.0.6:41475 on port 1883.
+1714895936: Client python-mqtt-server already connected, closing old connection.
+1714895936: New client connected from 172.18.0.6:41475 as python-mqtt-server (p2, c1, k60).
+1714895937: New connection from 172.18.0.5:43281 on port 1883.
+1714895937: Client python-mqtt-server already connected, closing old connection.
+1714895937: New client connected from 172.18.0.5:43281 as python-mqtt-server (p2, c1, k60).
+1714895938: New connection from 172.18.0.6:33445 on port 1883.
+1714895938: Client python-mqtt-server already connected, closing old connection.
+1714895938: New client connected from 172.18.0.6:33445 as python-mqtt-server (p2, c1, k60).
+1714895939: New connection from 172.18.0.5:33739 on port 1883.
+1714895939: Client python-mqtt-server already connected, closing old connection.
+1714895939: New client connected from 172.18.0.5:33739 as python-mqtt-server (p2, c1, k60).
+1714895940: New connection from 172.18.0.6:40663 on port 1883.
+1714895940: Client python-mqtt-server already connected, closing old connection.
+1714895940: New client connected from 172.18.0.6:40663 as python-mqtt-server (p2, c1, k60).
+1714895941: New connection from 172.18.0.5:60669 on port 1883.
+1714895941: Client python-mqtt-server already connected, closing old connection.
+1714895941: New client connected from 172.18.0.5:60669 as python-mqtt-server (p2, c1, k60).
+1714895942: New connection from 172.18.0.6:45739 on port 1883.
+1714895942: Client python-mqtt-server already connected, closing old connection.
+1714895942: New client connected from 172.18.0.6:45739 as python-mqtt-server (p2, c1, k60).
+1714895943: New connection from 172.18.0.5:39311 on port 1883.
+1714895943: Client python-mqtt-server already connected, closing old connection.
+1714895943: New client connected from 172.18.0.5:39311 as python-mqtt-server (p2, c1, k60).
+1714895944: New connection from 172.18.0.6:45495 on port 1883.
+1714895944: Client python-mqtt-server already connected, closing old connection.
+1714895944: New client connected from 172.18.0.6:45495 as python-mqtt-server (p2, c1, k60).
+1714895945: New connection from 172.18.0.5:32789 on port 1883.
+1714895945: Client python-mqtt-server already connected, closing old connection.
+1714895945: New client connected from 172.18.0.5:32789 as python-mqtt-server (p2, c1, k60).
+1714895946: New connection from 172.18.0.6:56239 on port 1883.
+1714895946: Client python-mqtt-server already connected, closing old connection.
+1714895946: New client connected from 172.18.0.6:56239 as python-mqtt-server (p2, c1, k60).
+1714895947: New connection from 172.18.0.5:52135 on port 1883.
+1714895947: Client python-mqtt-server already connected, closing old connection.
+1714895947: New client connected from 172.18.0.5:52135 as python-mqtt-server (p2, c1, k60).
+1714895948: New connection from 172.18.0.6:47805 on port 1883.
+1714895948: Client python-mqtt-server already connected, closing old connection.
+1714895948: New client connected from 172.18.0.6:47805 as python-mqtt-server (p2, c1, k60).
+1714895949: New connection from 172.18.0.5:34917 on port 1883.
+1714895949: Client python-mqtt-server already connected, closing old connection.
+1714895949: New client connected from 172.18.0.5:34917 as python-mqtt-server (p2, c1, k60).
+1714895950: New connection from 172.18.0.6:47921 on port 1883.
+1714895950: Client python-mqtt-server already connected, closing old connection.
+1714895950: New client connected from 172.18.0.6:47921 as python-mqtt-server (p2, c1, k60).
+1714895950: Client python-mqtt-server closed its connection.
+1714895951: mosquitto version 2.0.18 terminating
+1714895951: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714895951: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714895951: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714895951: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714896050: mosquitto version 2.0.18 starting
+1714896050: Config loaded from /mosquitto/config/mosquitto.conf.
+1714896050: Opening ipv4 listen socket on port 1883.
+1714896050: Opening ipv6 listen socket on port 1883.
+1714896050: Opening ipv4 listen socket on port 9001.
+1714896050: Opening ipv6 listen socket on port 9001.
+1714896050: mosquitto version 2.0.18 running
+1714896051: New connection from 172.18.0.6:49401 on port 1883.
+1714896051: New client connected from 172.18.0.6:49401 as python-mqtt-server (p2, c1, k60).
+1714896219: New connection from 172.18.0.5:41801 on port 1883.
+1714896219: New client connected from 172.18.0.5:41801 as your-client-id (p2, c1, k60).
+1714896250: Client python-mqtt-server closed its connection.
+1714896251: New connection from 172.18.0.6:36733 on port 1883.
+1714896251: New client connected from 172.18.0.6:36733 as python-mqtt-server (p2, c1, k60).
+1714896307: Client python-mqtt-server closed its connection.
+1714896307: Client your-client-id closed its connection.
+1714896308: mosquitto version 2.0.18 terminating
+1714896308: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714896308: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714896308: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714896308: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714896354: mosquitto version 2.0.18 starting
+1714896354: Config loaded from /mosquitto/config/mosquitto.conf.
+1714896354: Opening ipv4 listen socket on port 1883.
+1714896354: Opening ipv6 listen socket on port 1883.
+1714896354: Opening ipv4 listen socket on port 9001.
+1714896354: Opening ipv6 listen socket on port 9001.
+1714896354: mosquitto version 2.0.18 running
+1714896355: New connection from 172.18.0.5:59923 on port 1883.
+1714896355: New client connected from 172.18.0.5:59923 as python-mqtt-server (p2, c1, k60).
+1714896384: New connection from 172.18.0.6:38283 on port 1883.
+1714896384: New client connected from 172.18.0.6:38283 as your-client-id (p2, c1, k60).
+1714896385: Client python-mqtt-server closed its connection.
+1714896440: New connection from 172.18.0.5:42401 on port 1883.
+1714896440: New client connected from 172.18.0.5:42401 as python-mqtt-server (p2, c1, k60).
+1714896568: Client your-client-id closed its connection.
+1714896568: Client python-mqtt-server closed its connection.
+1714896569: mosquitto version 2.0.18 terminating
+1714896569: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714896569: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714896569: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714896569: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714896573: mosquitto version 2.0.18 starting
+1714896573: Config loaded from /mosquitto/config/mosquitto.conf.
+1714896573: Opening ipv4 listen socket on port 1883.
+1714896573: Opening ipv6 listen socket on port 1883.
+1714896573: Opening ipv4 listen socket on port 9001.
+1714896573: Opening ipv6 listen socket on port 9001.
+1714896573: mosquitto version 2.0.18 running
+1714896574: New connection from 172.18.0.5:53799 on port 1883.
+1714896574: New client connected from 172.18.0.5:53799 as python-mqtt-server (p2, c1, k60).
+1714896595: New connection from 172.18.0.6:42793 on port 1883.
+1714896595: New client connected from 172.18.0.6:42793 as your-client-id (p2, c1, k60).
+1714896665: Client your-client-id closed its connection.
+1714896665: Client python-mqtt-server closed its connection.
+1714896666: mosquitto version 2.0.18 terminating
+1714896666: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714896666: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714896666: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714896666: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714896671: mosquitto version 2.0.18 starting
+1714896671: Config loaded from /mosquitto/config/mosquitto.conf.
+1714896671: Opening ipv4 listen socket on port 1883.
+1714896671: Opening ipv6 listen socket on port 1883.
+1714896671: Opening ipv4 listen socket on port 9001.
+1714896671: Opening ipv6 listen socket on port 9001.
+1714896671: mosquitto version 2.0.18 running
+1714896672: New connection from 172.18.0.6:51233 on port 1883.
+1714896672: New client connected from 172.18.0.6:51233 as python-mqtt-server (p2, c1, k60).
+1714896693: New connection from 172.18.0.5:47785 on port 1883.
+1714896693: New client connected from 172.18.0.5:47785 as your-client-id (p2, c1, k60).
+1714896694: Client your-client-id closed its connection.
+1714896699: New connection from 172.18.0.5:49641 on port 1883.
+1714896699: New client connected from 172.18.0.5:49641 as your-client-id (p2, c1, k60).
+1714896701: Client your-client-id closed its connection.
+1714896702: New connection from 172.18.0.5:54301 on port 1883.
+1714896702: New client connected from 172.18.0.5:54301 as your-client-id (p2, c1, k60).
+1714896702: Client your-client-id closed its connection.
+1714896703: New connection from 172.18.0.5:51181 on port 1883.
+1714896703: New client connected from 172.18.0.5:51181 as your-client-id (p2, c1, k60).
+1714896703: Client your-client-id closed its connection.
+1714896704: New connection from 172.18.0.5:40681 on port 1883.
+1714896704: New client connected from 172.18.0.5:40681 as your-client-id (p2, c1, k60).
+1714896705: Client your-client-id closed its connection.
+1714896802: Client python-mqtt-server closed its connection.
+1714896803: mosquitto version 2.0.18 terminating
+1714896803: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714896803: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714896803: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714896803: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714896807: mosquitto version 2.0.18 starting
+1714896807: Config loaded from /mosquitto/config/mosquitto.conf.
+1714896807: Opening ipv4 listen socket on port 1883.
+1714896807: Opening ipv6 listen socket on port 1883.
+1714896807: Opening ipv4 listen socket on port 9001.
+1714896807: Opening ipv6 listen socket on port 9001.
+1714896807: mosquitto version 2.0.18 running
+1714896807: New connection from 172.18.0.6:60973 on port 1883.
+1714896807: New client connected from 172.18.0.6:60973 as python-mqtt-server (p2, c1, k60).
+1714896858: New connection from 172.18.0.5:45683 on port 1883.
+1714896858: New client connected from 172.18.0.5:45683 as your-client-id (p2, c1, k60).
+1714896858: Client python-mqtt-server closed its connection.
+1714896859: New connection from 172.18.0.6:60893 on port 1883.
+1714896859: New client connected from 172.18.0.6:60893 as python-mqtt-server (p2, c1, k60).
+1714896859: Client your-client-id closed its connection.
+1714896918: Client python-mqtt-server closed its connection.
+1714896918: mosquitto version 2.0.18 terminating
+1714896918: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714896918: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714896918: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714896918: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714896923: mosquitto version 2.0.18 starting
+1714896923: Config loaded from /mosquitto/config/mosquitto.conf.
+1714896923: Opening ipv4 listen socket on port 1883.
+1714896923: Opening ipv6 listen socket on port 1883.
+1714896923: Opening ipv4 listen socket on port 9001.
+1714896923: Opening ipv6 listen socket on port 9001.
+1714896923: mosquitto version 2.0.18 running
+1714896924: New connection from 172.18.0.6:55505 on port 1883.
+1714896924: New client connected from 172.18.0.6:55505 as python-mqtt-server (p2, c1, k60).
+1714896943: New connection from 172.18.0.5:43953 on port 1883.
+1714896943: New client connected from 172.18.0.5:43953 as your-client-id (p2, c1, k60).
+1714896944: Client your-client-id closed its connection.
+1714896948: New connection from 172.18.0.5:47023 on port 1883.
+1714896948: New client connected from 172.18.0.5:47023 as your-client-id (p2, c1, k60).
+1714896949: Client your-client-id closed its connection.
+1714896951: New connection from 172.18.0.5:51959 on port 1883.
+1714896951: New client connected from 172.18.0.5:51959 as your-client-id (p2, c1, k60).
+1714896951: Client your-client-id closed its connection.
+1714896952: New connection from 172.18.0.5:53929 on port 1883.
+1714896952: New client connected from 172.18.0.5:53929 as your-client-id (p2, c1, k60).
+1714896953: Client your-client-id closed its connection.
+1714897750: mosquitto version 2.0.18 terminating
+1714897750: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714897750: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714897750: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714897750: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714911513: mosquitto version 2.0.18 starting
+1714911513: Config loaded from /mosquitto/config/mosquitto.conf.
+1714911513: Opening ipv4 listen socket on port 1883.
+1714911513: Opening ipv6 listen socket on port 1883.
+1714911513: Opening ipv4 listen socket on port 9001.
+1714911513: Opening ipv6 listen socket on port 9001.
+1714911513: mosquitto version 2.0.18 running
+1714912212: New connection from 172.18.0.6:43793 on port 1883.
+1714912212: New client connected from 172.18.0.6:43793 as python-mqtt-server (p2, c1, k60).
+1714912440: Client python-mqtt-server closed its connection.
+1714912440: mosquitto version 2.0.18 terminating
+1714912440: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714912440: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714912440: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714912440: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714912445: mosquitto version 2.0.18 starting
+1714912445: Config loaded from /mosquitto/config/mosquitto.conf.
+1714912445: Opening ipv4 listen socket on port 1883.
+1714912445: Opening ipv6 listen socket on port 1883.
+1714912445: Opening ipv4 listen socket on port 9001.
+1714912445: Opening ipv6 listen socket on port 9001.
+1714912445: mosquitto version 2.0.18 running
+1714912446: New connection from 172.18.0.6:55517 on port 1883.
+1714912446: New client connected from 172.18.0.6:55517 as python-mqtt-server (p2, c1, k60).
+1714912484: Client python-mqtt-server closed its connection.
+1714912487: mosquitto version 2.0.18 terminating
+1714912487: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1714912487: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1714912487: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1714912487: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1714912937: mosquitto version 2.0.18 starting
+1714912937: Config loaded from /mosquitto/config/mosquitto.conf.
+1714912937: Opening ipv4 listen socket on port 1883.
+1714912937: Opening ipv6 listen socket on port 1883.
+1714912937: Opening ipv4 listen socket on port 9001.
+1714912937: Opening ipv6 listen socket on port 9001.
+1714912937: mosquitto version 2.0.18 running
+1714912938: New connection from 172.18.0.5:46417 on port 1883.
+1714912938: New client connected from 172.18.0.5:46417 as python-mqtt-server (p2, c1, k60).
+1715435109: mosquitto version 2.0.18 starting
+1715435109: Config loaded from /mosquitto/config/mosquitto.conf.
+1715435109: Opening ipv4 listen socket on port 1883.
+1715435109: Opening ipv6 listen socket on port 1883.
+1715435109: Opening ipv4 listen socket on port 9001.
+1715435109: Opening ipv6 listen socket on port 9001.
+1715435109: mosquitto version 2.0.18 running
+1715435111: New connection from 172.18.0.6:34427 on port 1883.
+1715435111: New client connected from 172.18.0.6:34427 as python-mqtt-server (p2, c1, k60).
+1715435780: Client python-mqtt-server closed its connection.
+1715435782: mosquitto version 2.0.18 terminating
+1715435782: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715435782: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715435782: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715435782: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715435803: mosquitto version 2.0.18 starting
+1715435803: Config loaded from /mosquitto/config/mosquitto.conf.
+1715435803: Opening ipv4 listen socket on port 1883.
+1715435803: Opening ipv6 listen socket on port 1883.
+1715435803: Opening ipv4 listen socket on port 9001.
+1715435803: Opening ipv6 listen socket on port 9001.
+1715435803: mosquitto version 2.0.18 running
+1715435804: New connection from 172.18.0.5:59333 on port 1883.
+1715435804: New client connected from 172.18.0.5:59333 as python-mqtt-server (p2, c1, k60).
+1715436118: Client python-mqtt-server closed its connection.
+1715436120: mosquitto version 2.0.18 terminating
+1715436120: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715436120: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715436120: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715436120: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715436701: mosquitto version 2.0.18 starting
+1715436701: Config loaded from /mosquitto/config/mosquitto.conf.
+1715436701: Opening ipv4 listen socket on port 1883.
+1715436701: Opening ipv6 listen socket on port 1883.
+1715436701: Opening ipv4 listen socket on port 9001.
+1715436701: Opening ipv6 listen socket on port 9001.
+1715436701: mosquitto version 2.0.18 running
+1715436702: New connection from 172.18.0.6:41573 on port 1883.
+1715436702: New client connected from 172.18.0.6:41573 as python-mqtt-server (p2, c1, k60).
+1715436757: Client python-mqtt-server closed its connection.
+1715436769: mosquitto version 2.0.18 terminating
+1715436769: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715436769: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715436769: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715436769: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715437259: mosquitto version 2.0.18 starting
+1715437259: Config loaded from /mosquitto/config/mosquitto.conf.
+1715437259: Opening ipv4 listen socket on port 1883.
+1715437259: Opening ipv6 listen socket on port 1883.
+1715437259: Opening ipv4 listen socket on port 9001.
+1715437259: Opening ipv6 listen socket on port 9001.
+1715437259: mosquitto version 2.0.18 running
+1715437260: New connection from 172.18.0.6:36395 on port 1883.
+1715437260: New client connected from 172.18.0.6:36395 as python-mqtt-server (p2, c1, k60).
+1715516284: mosquitto version 2.0.18 starting
+1715516284: Config loaded from /mosquitto/config/mosquitto.conf.
+1715516284: Opening ipv4 listen socket on port 1883.
+1715516284: Opening ipv6 listen socket on port 1883.
+1715516284: Opening ipv4 listen socket on port 9001.
+1715516284: Opening ipv6 listen socket on port 9001.
+1715516284: mosquitto version 2.0.18 running
+1715516285: New connection from 172.18.0.6:36721 on port 1883.
+1715516285: New client connected from 172.18.0.6:36721 as python-mqtt-server (p2, c1, k60).
+1715516854: Client python-mqtt-server closed its connection.
+1715516855: mosquitto version 2.0.18 terminating
+1715516855: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715516855: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715516855: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715516855: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715516888: mosquitto version 2.0.18 starting
+1715516888: Config loaded from /mosquitto/config/mosquitto.conf.
+1715516888: Opening ipv4 listen socket on port 1883.
+1715516888: Opening ipv6 listen socket on port 1883.
+1715516888: Opening ipv4 listen socket on port 9001.
+1715516888: Opening ipv6 listen socket on port 9001.
+1715516888: mosquitto version 2.0.18 running
+1715516889: New connection from 172.18.0.6:37071 on port 1883.
+1715516889: New client connected from 172.18.0.6:37071 as python-mqtt-server (p2, c1, k60).
+1715516953: Client python-mqtt-server closed its connection.
+1715522834: mosquitto version 2.0.18 starting
+1715522834: Config loaded from /mosquitto/config/mosquitto.conf.
+1715522834: Opening ipv4 listen socket on port 1883.
+1715522834: Opening ipv6 listen socket on port 1883.
+1715522834: Opening ipv4 listen socket on port 9001.
+1715522834: Opening ipv6 listen socket on port 9001.
+1715522834: mosquitto version 2.0.18 running
+1715522835: New connection from 172.18.0.5:45065 on port 1883.
+1715522835: New client connected from 172.18.0.5:45065 as python-mqtt-server (p2, c1, k60).
+1715523062: Client python-mqtt-server closed its connection.
+1715523063: mosquitto version 2.0.18 terminating
+1715523063: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715523063: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715523063: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715523063: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715523221: mosquitto version 2.0.18 starting
+1715523221: Config loaded from /mosquitto/config/mosquitto.conf.
+1715523221: Opening ipv4 listen socket on port 1883.
+1715523221: Opening ipv6 listen socket on port 1883.
+1715523221: Opening ipv4 listen socket on port 9001.
+1715523221: Opening ipv6 listen socket on port 9001.
+1715523221: mosquitto version 2.0.18 running
+1715523221: New connection from 172.18.0.7:48361 on port 1883.
+1715523221: New client connected from 172.18.0.7:48361 as python-mqtt-server (p2, c1, k60).
+1715523589: mosquitto version 2.0.18 starting
+1715523589: Config loaded from /mosquitto/config/mosquitto.conf.
+1715523589: Opening ipv4 listen socket on port 1883.
+1715523589: Opening ipv6 listen socket on port 1883.
+1715523589: Opening ipv4 listen socket on port 9001.
+1715523589: Opening ipv6 listen socket on port 9001.
+1715523589: mosquitto version 2.0.18 running
+1715523590: New connection from 172.18.0.7:37733 on port 1883.
+1715523590: New client connected from 172.18.0.7:37733 as python-mqtt-server (p2, c1, k60).
+1715523759: mosquitto version 2.0.18 starting
+1715523759: Config loaded from /mosquitto/config/mosquitto.conf.
+1715523759: Opening ipv4 listen socket on port 1883.
+1715523759: Opening ipv6 listen socket on port 1883.
+1715523759: Opening ipv4 listen socket on port 9001.
+1715523759: Opening ipv6 listen socket on port 9001.
+1715523759: mosquitto version 2.0.18 running
+1715523760: New connection from 172.18.0.8:35135 on port 1883.
+1715523760: New client connected from 172.18.0.8:35135 as python-mqtt-server (p2, c1, k60).
+1715524270: Client python-mqtt-server closed its connection.
+1715524340: mosquitto version 2.0.18 terminating
+1715524340: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715524340: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715524340: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715524340: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715524751: mosquitto version 2.0.18 starting
+1715524751: Config loaded from /mosquitto/config/mosquitto.conf.
+1715524751: Opening ipv4 listen socket on port 1883.
+1715524751: Opening ipv6 listen socket on port 1883.
+1715524751: Opening ipv4 listen socket on port 9001.
+1715524751: Opening ipv6 listen socket on port 9001.
+1715524751: mosquitto version 2.0.18 running
+1715524752: New connection from 172.18.0.8:33841 on port 1883.
+1715524752: New client connected from 172.18.0.8:33841 as python-mqtt-server (p2, c1, k60).
+1715525060: Client python-mqtt-server closed its connection.
+1715525119: mosquitto version 2.0.18 terminating
+1715525119: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715525119: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715525119: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715525119: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715525571: mosquitto version 2.0.18 starting
+1715525571: Config loaded from /mosquitto/config/mosquitto.conf.
+1715525571: Opening ipv4 listen socket on port 1883.
+1715525571: Opening ipv6 listen socket on port 1883.
+1715525571: Opening ipv4 listen socket on port 9001.
+1715525571: Opening ipv6 listen socket on port 9001.
+1715525571: mosquitto version 2.0.18 running
+1715525572: New connection from 172.18.0.7:33295 on port 1883.
+1715525572: New client connected from 172.18.0.7:33295 as python-mqtt-server (p2, c1, k60).
+1715527372: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715527372: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715527372: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715527372: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715527922: Client python-mqtt-server closed its connection.
+1715527923: mosquitto version 2.0.18 terminating
+1715527923: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715527923: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715527923: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715527923: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715532741: mosquitto version 2.0.18 starting
+1715532741: Config loaded from /mosquitto/config/mosquitto.conf.
+1715532741: Opening ipv4 listen socket on port 1883.
+1715532741: Opening ipv6 listen socket on port 1883.
+1715532741: Opening ipv4 listen socket on port 9001.
+1715532741: Opening ipv6 listen socket on port 9001.
+1715532741: mosquitto version 2.0.18 running
+1715532742: New connection from 172.18.0.8:45593 on port 1883.
+1715532742: New client connected from 172.18.0.8:45593 as python-mqtt-server (p2, c1, k60).
+1715533160: mosquitto version 2.0.18 starting
+1715533160: Config loaded from /mosquitto/config/mosquitto.conf.
+1715533160: Opening ipv4 listen socket on port 1883.
+1715533160: Opening ipv6 listen socket on port 1883.
+1715533160: Opening ipv4 listen socket on port 9001.
+1715533160: Opening ipv6 listen socket on port 9001.
+1715533160: mosquitto version 2.0.18 running
+1715533161: New connection from 172.18.0.7:58807 on port 1883.
+1715533161: New client connected from 172.18.0.7:58807 as python-mqtt-server (p2, c1, k60).
+1715533272: Client python-mqtt-server closed its connection.
+1715533339: mosquitto version 2.0.18 starting
+1715533339: Config loaded from /mosquitto/config/mosquitto.conf.
+1715533339: Opening ipv4 listen socket on port 1883.
+1715533339: Opening ipv6 listen socket on port 1883.
+1715533339: Opening ipv4 listen socket on port 9001.
+1715533339: Opening ipv6 listen socket on port 9001.
+1715533339: mosquitto version 2.0.18 running
+1715533340: New connection from 172.18.0.7:50137 on port 1883.
+1715533340: New client connected from 172.18.0.7:50137 as python-mqtt-server (p2, c1, k60).
+1715533454: Client python-mqtt-server closed its connection.
+1715533455: mosquitto version 2.0.18 terminating
+1715533455: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715533455: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715533455: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715533455: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715534299: mosquitto version 2.0.18 starting
+1715534299: Config loaded from /mosquitto/config/mosquitto.conf.
+1715534299: Opening ipv4 listen socket on port 1883.
+1715534299: Opening ipv6 listen socket on port 1883.
+1715534299: Opening ipv4 listen socket on port 9001.
+1715534299: Opening ipv6 listen socket on port 9001.
+1715534299: mosquitto version 2.0.18 running
+1715534300: New connection from 172.18.0.7:39231 on port 1883.
+1715534300: New client connected from 172.18.0.7:39231 as python-mqtt-server (p2, c1, k60).
+1715534705: mosquitto version 2.0.18 starting
+1715534705: Config loaded from /mosquitto/config/mosquitto.conf.
+1715534705: Opening ipv4 listen socket on port 1883.
+1715534705: Opening ipv6 listen socket on port 1883.
+1715534705: Opening ipv4 listen socket on port 9001.
+1715534705: Opening ipv6 listen socket on port 9001.
+1715534705: mosquitto version 2.0.18 running
+1715534706: New connection from 172.18.0.7:40087 on port 1883.
+1715534706: New client connected from 172.18.0.7:40087 as python-mqtt-server (p2, c1, k60).
+1715535010: New connection from 172.18.0.8:58395 on port 1883.
+1715535010: New client connected from 172.18.0.8:58395 as your-client-id (p2, c1, k60).
+1715535013: Client your-client-id closed its connection.
+1715535120: New connection from 172.18.0.8:47381 on port 1883.
+1715535120: New client connected from 172.18.0.8:47381 as your-client-id (p2, c1, k60).
+1715535121: Client your-client-id closed its connection.
+1715535126: New connection from 172.18.0.8:47205 on port 1883.
+1715535126: New client connected from 172.18.0.8:47205 as your-client-id (p2, c1, k60).
+1715535127: Client your-client-id closed its connection.
+1715535139: mosquitto version 2.0.18 starting
+1715535139: Config loaded from /mosquitto/config/mosquitto.conf.
+1715535139: Opening ipv4 listen socket on port 1883.
+1715535139: Opening ipv6 listen socket on port 1883.
+1715535139: Opening ipv4 listen socket on port 9001.
+1715535139: Opening ipv6 listen socket on port 9001.
+1715535139: mosquitto version 2.0.18 running
+1715535140: New connection from 172.18.0.8:57867 on port 1883.
+1715535140: New client connected from 172.18.0.8:57867 as python-mqtt-server (p2, c1, k60).
+1715535174: Client python-mqtt-server closed its connection.
+1715535175: mosquitto version 2.0.18 terminating
+1715535175: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715535175: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715535175: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715535175: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715536481: mosquitto version 2.0.18 starting
+1715536481: Config loaded from /mosquitto/config/mosquitto.conf.
+1715536481: Opening ipv4 listen socket on port 1883.
+1715536481: Opening ipv6 listen socket on port 1883.
+1715536481: Opening ipv4 listen socket on port 9001.
+1715536481: Opening ipv6 listen socket on port 9001.
+1715536481: mosquitto version 2.0.18 running
+1715536481: New connection from 172.18.0.8:52491 on port 1883.
+1715536481: New client connected from 172.18.0.8:52491 as python-mqtt-server (p2, c1, k60).
+1715536663: Client python-mqtt-server closed its connection.
+1715536772: mosquitto version 2.0.18 terminating
+1715536772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715536772: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715536772: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715536772: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715537199: mosquitto version 2.0.18 starting
+1715537199: Config loaded from /mosquitto/config/mosquitto.conf.
+1715537199: Opening ipv4 listen socket on port 1883.
+1715537199: Opening ipv6 listen socket on port 1883.
+1715537199: Opening ipv4 listen socket on port 9001.
+1715537199: Opening ipv6 listen socket on port 9001.
+1715537199: mosquitto version 2.0.18 running
+1715537213: New connection from 172.18.0.8:36861 on port 1883.
+1715537213: New client connected from 172.18.0.8:36861 as python-mqtt-server (p2, c1, k60).
+1715537318: Client python-mqtt-server closed its connection.
+1715537320: mosquitto version 2.0.18 terminating
+1715537320: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715537320: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1715537320: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1715537320: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1715537410: mosquitto version 2.0.18 starting
+1715537410: Config loaded from /mosquitto/config/mosquitto.conf.
+1715537410: Opening ipv4 listen socket on port 1883.
+1715537410: Opening ipv6 listen socket on port 1883.
+1715537410: Opening ipv4 listen socket on port 9001.
+1715537410: Opening ipv6 listen socket on port 9001.
+1715537410: mosquitto version 2.0.18 running
+1715537411: New connection from 172.18.0.7:43463 on port 1883.
+1715537411: New client connected from 172.18.0.7:43463 as python-mqtt-server (p2, c1, k60).
+1715538037: Client python-mqtt-server closed its connection.
+1716025485: mosquitto version 2.0.18 starting
+1716025485: Config loaded from /mosquitto/config/mosquitto.conf.
+1716025485: Opening ipv4 listen socket on port 1883.
+1716025485: Opening ipv6 listen socket on port 1883.
+1716025485: Opening ipv4 listen socket on port 9001.
+1716025485: Opening ipv6 listen socket on port 9001.
+1716025485: mosquitto version 2.0.18 running
+1716025486: New connection from 172.18.0.7:41887 on port 1883.
+1716025486: New client connected from 172.18.0.7:41887 as python-mqtt-server (p2, c1, k60).
+1716032621: Client python-mqtt-server closed its connection.
+1716032622: mosquitto version 2.0.18 terminating
+1716032622: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716032622: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716032622: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716032622: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716032636: mosquitto version 2.0.18 starting
+1716032636: Config loaded from /mosquitto/config/mosquitto.conf.
+1716032636: Opening ipv4 listen socket on port 1883.
+1716032636: Opening ipv6 listen socket on port 1883.
+1716032636: Opening ipv4 listen socket on port 9001.
+1716032636: Opening ipv6 listen socket on port 9001.
+1716032636: mosquitto version 2.0.18 running
+1716032637: New connection from 172.18.0.8:44417 on port 1883.
+1716032637: New client connected from 172.18.0.8:44417 as python-mqtt-server (p2, c1, k60).
+1716032680: Client python-mqtt-server closed its connection.
+1716032997: mosquitto version 2.0.18 starting
+1716032997: Config loaded from /mosquitto/config/mosquitto.conf.
+1716032997: Opening ipv4 listen socket on port 1883.
+1716032997: Opening ipv6 listen socket on port 1883.
+1716032997: Opening ipv4 listen socket on port 9001.
+1716032997: Opening ipv6 listen socket on port 9001.
+1716032997: mosquitto version 2.0.18 running
+1716032998: New connection from 172.18.0.7:51635 on port 1883.
+1716032998: New client connected from 172.18.0.7:51635 as python-mqtt-server (p2, c1, k60).
+1716033042: Client python-mqtt-server closed its connection.
+1716033042: mosquitto version 2.0.18 terminating
+1716033042: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716033042: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716033042: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716033042: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716033047: mosquitto version 2.0.18 starting
+1716033047: Config loaded from /mosquitto/config/mosquitto.conf.
+1716033047: Opening ipv4 listen socket on port 1883.
+1716033047: Opening ipv6 listen socket on port 1883.
+1716033047: Opening ipv4 listen socket on port 9001.
+1716033047: Opening ipv6 listen socket on port 9001.
+1716033047: mosquitto version 2.0.18 running
+1716033048: New connection from 172.18.0.7:59541 on port 1883.
+1716033048: New client connected from 172.18.0.7:59541 as python-mqtt-server (p2, c1, k60).
+1716034163: mosquitto version 2.0.18 terminating
+1716034163: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716034163: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716034163: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716034163: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716043385: mosquitto version 2.0.18 starting
+1716043385: Config loaded from /mosquitto/config/mosquitto.conf.
+1716043385: Opening ipv4 listen socket on port 1883.
+1716043385: Opening ipv6 listen socket on port 1883.
+1716043385: Opening ipv4 listen socket on port 9001.
+1716043385: Opening ipv6 listen socket on port 9001.
+1716043385: mosquitto version 2.0.18 running
+1716106051: mosquitto version 2.0.18 starting
+1716106051: Config loaded from /mosquitto/config/mosquitto.conf.
+1716106051: Opening ipv4 listen socket on port 1883.
+1716106051: Opening ipv6 listen socket on port 1883.
+1716106051: Opening ipv4 listen socket on port 9001.
+1716106051: Opening ipv6 listen socket on port 9001.
+1716106051: mosquitto version 2.0.18 running
+1716107851: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716107851: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716107851: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716107851: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716109652: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716109652: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716109652: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716109652: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716110733: New connection from 172.18.0.7:52773 on port 1883.
+1716110733: New client connected from 172.18.0.7:52773 as python-mqtt-server (p2, c1, k60).
+1716111453: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716111453: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716111453: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716111453: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716113254: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716113254: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716113254: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716113254: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716115055: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716115055: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716115055: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716115055: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716116856: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716116856: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716116856: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716116856: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716118657: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716118657: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716118657: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716118657: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716120458: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716120458: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716120458: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716120458: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716128312: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716128312: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716128312: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716128312: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716130113: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716130113: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716130113: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716130113: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1716130785: Client python-mqtt-server closed its connection.
+1716130788: mosquitto version 2.0.18 terminating
+1716130788: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1716130788: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1716130788: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1716130788: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
